@@ -25,7 +25,7 @@ def extract_country_data(country_code, save_to_csv=False):
         if development_data.empty:
             print(f"[EXTRACT ERROR] Error finding WDI data for Country Code: {country_code}")
         else:
-            print(f"[EXTRACT INFO] Extracting WDI data for {country_code}...")
+            print(f"[EXTRACT INFO] Extracting WDI data for {country_code}")
 
         # Disaster Data Extraction
         disaster_file_path = "../data/raw/disaster_data_raw.csv"
@@ -38,17 +38,19 @@ def extract_country_data(country_code, save_to_csv=False):
         if disaster_data.empty:
             print(f"[EXTRACT ERROR] Error finding EM-DAT data for ISO: {country_code}")
         else:
-            print(f"[EXTRACT INFO] Extracting EM-DAT data for {country_code}...")
+            print(f"[EXTRACT INFO] Extracting EM-DAT data for {country_code}")
 
         # Save data to CSV if requested
         if save_to_csv:
             os.makedirs("../data/unfiltered_ETL_outputs", exist_ok=True)
+
             development_data.to_csv(f"../data/unfiltered_ETL_outputs/{country_code}_development_data.csv", index=False)
             disaster_data.to_csv(f"../data/unfiltered_ETL_outputs/{country_code}_disaster_data.csv", index=False)
-            print(f"[EXTRACT INFO] Creating two CSVs for {country_code} at ../data/_unfiltered_ETL_outputs: {country_code}_development_data and {country_code}_disaster_data...")
+
+            print(f"[EXTRACT INFO] Creating two CSVs for {country_code} at /data/_unfiltered_ETL_outputs: {country_code}_development_data and {country_code}_disaster_data")
 
 
-        print(f"[EXTRACT INFO] Creating two DataFrames for {country_code}: development_data and disaster_data...")
+        print(f"[EXTRACT INFO] Creating two DataFrames for {country_code}: development_data and disaster_data")
         return development_data, disaster_data
 
     except Exception as e:
