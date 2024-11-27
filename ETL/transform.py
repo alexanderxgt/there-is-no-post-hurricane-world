@@ -1,6 +1,5 @@
 import os
 
-
 def transform_development_data(
         # all default figures chosen during Exploratory Data Analysis
         country_code,
@@ -137,5 +136,3 @@ def transform_disaster_data(
     except Exception as e:
         print(f"[TRANSFORM ERROR] Error transforming disaster data for {country_code}: {e}")
         raise
-
-

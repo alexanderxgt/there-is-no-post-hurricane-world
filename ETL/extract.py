@@ -15,7 +15,7 @@ def extract_country_data(country_code, save_to_csv=False):
     """
     try:
         # Development Data Extraction
-        development_file_path = "../data/raw/development_data_raw.csv"
+        development_file_path = "../data/raw/WDI_tester.csv"
         if not os.path.exists(development_file_path):
             raise FileNotFoundError(f"[EXTRACT ERROR] WDI file not found at {development_file_path}")
 
