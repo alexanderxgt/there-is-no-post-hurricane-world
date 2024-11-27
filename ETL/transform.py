@@ -37,12 +37,14 @@ def transform_development_data(
     # Eliminate Development Indicators where more than half of the years have no data
     # There has to be a more elegant way of doing this. I don't love the create-and-delete column process.
     # Also, "more than half of the years" doesn't feel sensitive enough, but we can come back to this -- ALEX
-    num_columns = development_data_transformed.shape[1]
-    nc_half = num_columns // 2
+    num_year_columns = development_data_transformed.iloc[:, 2:].shape[1]
+    nc_half = num_year_columns // 2
 
-
-
-
+    development_data_transformed['NaN_count'] = development_data_transformed.iloc[:, 2:].isna().sum(axis=1)
+    development_data_transformed = development_data_transformed[
+        development_data_transformed['NaN_count'] <= nc_half
+        ]
+    development_data_transformed = development_data_transformed.drop(columns=['NaN_count'])
 
 
     # Save to CSV if specified

@@ -1,27 +1,10 @@
 Country Code,Indicator Name,2017,2018,2019,2020
-PHL,ARI treatment (% of children under 5 taken to a health provider),66.0,,,
 PHL,Access to clean fuels and technologies for cooking (% of population),47.8,49.9,52.3,54.6
 PHL,"Access to clean fuels and technologies for cooking, rural (% of rural population)",27.4,29.5,31.9,34.2
 PHL,"Access to clean fuels and technologies for cooking, urban (% of urban population)",69.0,71.1,73.4,75.4
 PHL,Access to electricity (% of population),93.0,94.2,95.3,96.4
 PHL,"Access to electricity, rural (% of rural population)",90.0,91.3,93.0,94.7
 PHL,"Access to electricity, urban (% of urban population)",96.4,97.4,97.8,98.2
-PHL,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),34.5,,,
-PHL,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",38.85,,,
-PHL,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",30.02,,,
-PHL,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",38.83,,,
-PHL,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",18.03,,,
-PHL,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",18.0,,,
-PHL,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",45.36,,,
-PHL,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",41.35,,,
-PHL,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",23.52,,,
-PHL,Adequacy of social insurance programs (% of total welfare of beneficiary households),,21.4531603883169,,
-PHL,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),,16.9409583154979,,
-PHL,Adequacy of social safety net programs (% of total welfare of beneficiary households),,9.19145442569177,,
-PHL,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),,,,
-PHL,"Adjusted net enrollment rate, primary (% of primary school age children)",95.02535,,,
-PHL,"Adjusted net enrollment rate, primary, female (% of primary school age children)",95.18792,,,
-PHL,"Adjusted net enrollment rate, primary, male (% of primary school age children)",94.8704,,,
 PHL,Adjusted net national income (annual % growth),6.448506954757562,4.674191184017957,3.9621082441949222,-11.144281809613105
 PHL,Adjusted net national income (constant 2015 US$),352974072444.96594,369472755421.0577,384111665923.64954,341305179409.51843
 PHL,Adjusted net national income (current US$),333702122642.386,350371847985.215,375755437994.094,350838234571.58
@@ -59,12 +42,9 @@ PHL,Adults (ages 15-49) newly infected with HIV,13000.0,14000.0,16000.0,18000.0
 PHL,Age dependency ratio (% of working-age population),58.080267813122624,57.56584529140836,57.09898946149284,56.649857706646515
 PHL,"Age dependency ratio, old (% of working-age population)",7.618967292149444,7.777946837988066,7.968902767620549,8.180549040752428
 PHL,"Age dependency ratio, young (% of working-age population)",50.46130052097318,49.7878984534203,49.130086693872286,48.46930866589408
-PHL,Agricultural irrigated land (% of total agricultural land),,,,
 PHL,Agricultural land (% of land area),42.22423449709897,42.301371700707655,42.378508904316334,42.45564610792501
 PHL,Agricultural land (sq. km),125900.0,126130.0,126360.0,126590.0
-PHL,Agricultural methane emissions (% of total),,,,
 PHL,Agricultural methane emissions (thousand metric tons of CO2 equivalent),50681.7625,50626.3725,49373.715,49957.0075
-PHL,Agricultural nitrous oxide emissions (% of total),,,,
 PHL,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),11473.5662,10782.683,11199.3168,11478.5726
 PHL,Agricultural raw materials exports (% of merchandise exports),0.8989138548788667,0.9412549329679912,1.126253009525528,1.147569419521537
 PHL,Agricultural raw materials imports (% of merchandise imports),0.5259047416996178,0.6634644350796496,0.6776980483483399,0.6026371474292918
@@ -78,14 +58,11 @@ PHL,"Agriculture, forestry, and fishing, value added per worker (constant 2015 U
 PHL,"Air transport, freight (million ton-km)",753.351739,835.904513,926.888641,360.409324
 PHL,"Air transport, passengers carried",39341995.0,43080118.0,47776892.0,10613531.0
 PHL,"Air transport, registered carrier departures worldwide",273159.0,292450.0,320569.0,88024.0
-PHL,Alternative and nuclear energy (% of total energy use),,,,
 PHL,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",74.0392874138,73.7521331696,78.9950838572,78.9950838572
 PHL,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",8.6218869396,8.6814718692,9.4976257162,9.4976257162
 PHL,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",17.3388256488,17.5663949602,11.5072904185,11.5072904185
 PHL,"Annual freshwater withdrawals, total (% of internal resources)",19.163106471816285,19.2396264697286,17.92633549895616,17.92633549895616
 PHL,"Annual freshwater withdrawals, total (billion cubic meters)",91.79128,92.15781079,85.86714704,85.86714704
-PHL,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",,,,
-PHL,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",,,,
 PHL,Antiretroviral therapy coverage (% of people living with HIV),32.0,37.0,41.0,39.0
 PHL,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),16.0,18.0,22.0,21.0
 PHL,Aquaculture production (metric tons),2237787.0,2304360.74,2358238.38,2322831.42
@@ -94,38 +71,21 @@ PHL,Arable land (hectares per person),0.0523709809265543,0.0514880715862146,0.05
 PHL,Arable land (hectares),5590000.0,5590000.0,5590000.0,5590000.0
 PHL,Armed forces personnel (% of total labor force),0.356022839539971,0.3501112056841347,0.343743147314031,0.3701164751832542
 PHL,"Armed forces personnel, total",153000.0,153350.0,155000.0,157000.0
-PHL,Arms exports (SIPRI trend indicator values),,,,
 PHL,Arms imports (SIPRI trend indicator values),278000000.0,17000000.0,185000000.0,348000000.0
 PHL,"Automated teller machines (ATMs) (per 100,000 adults)",28.14,28.9,28.98,29.72
 PHL,Average precipitation in depth (mm per year),2348.0,2348.0,2348.0,2348.0
-PHL,Average time to clear exports through customs (days),,,,
-PHL,Average transaction cost of sending remittances from a specific country (%),,,,
 PHL,Average transaction cost of sending remittances to a specific country (%),4.55689307692308,2.94951,2.76525428571429,2.697995
-PHL,"Average working hours of children, study and work, ages 7-14 (hours per week)",,,,
-PHL,"Average working hours of children, study and work, female, ages 7-14 (hours per week)",,,,
-PHL,"Average working hours of children, study and work, male, ages 7-14 (hours per week)",,,,
-PHL,"Average working hours of children, working only, ages 7-14 (hours per week)",,,,
-PHL,"Average working hours of children, working only, female, ages 7-14 (hours per week)",,,,
-PHL,"Average working hours of children, working only, male, ages 7-14 (hours per week)",,,,
 PHL,Bank capital to assets ratio (%),8.70217360858571,9.29799940252323,9.51804257779994,9.60967119432294
 PHL,Bank liquid reserves to bank assets ratio (%),25.705458594157243,21.97207654447409,21.54692281472338,28.4298945190388
 PHL,Bank nonperforming loans to total gross loans (%),1.5793111524775,1.67363606149179,1.97428417462379,3.5324621315646
 PHL,Battle-related deaths (number of people),1620.0,420.0,309.0,348.0
-PHL,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),,1.39460353775594,,
-PHL,Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits),,11.2745097658451,,
-PHL,Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits),,30.8957951595857,,
-PHL,Benefit incidence of unemployment benefits and ALMP to poorest quintile (% of total U/ALMP benefits),,,,
 PHL,"Binding coverage, all products (%)",61.85,62.17,62.15,62.15
 PHL,"Binding coverage, manufactured products (%)",61.1,61.38,61.38,61.38
 PHL,"Binding coverage, primary products (%)",65.24,65.7,65.65,65.65
-PHL,"Bird species, threatened",,93.0,,
 PHL,"Birth rate, crude (per 1,000 people)",22.664,22.445,22.254,22.039
-PHL,Births attended by skilled health staff (% of total),84.4,,,
-PHL,"Borrowers from commercial banks (per 1,000 adults)",,,,
 PHL,"Bound rate, simple mean, all products (%)",25.78,25.84,25.84,25.84
 PHL,"Bound rate, simple mean, manufactured products (%)",23.56,23.61,23.61,23.61
 PHL,"Bound rate, simple mean, primary products (%)",31.73,31.83,31.83,31.83
-PHL,Bribery incidence (% of firms experiencing at least one bribe payment request),,,,
 PHL,Broad money (% of GDP),75.41772137139806,74.51518725242506,76.59717596427363,90.49053168425502
 PHL,Broad money (current LCU),12486648982211.5,13610340722760.4,14950131998323.0,16244474369183.2
 PHL,Broad money growth (annual %),11.423124947866135,8.999145744784798,9.843921639096688,8.657732058856666
@@ -136,44 +96,7 @@ PHL,CO2 emissions (kg per 2021 PPP $ of GDP),0.1437934079717658,0.14095569635022
 PHL,CO2 emissions (kg per PPP $ of GDP),0.1587823760650961,0.1520622095689349,0.1475187599251678,0.1445485307759652
 PHL,CO2 emissions (kt),133456.7,139119.1,145871.3,133471.3
 PHL,CO2 emissions (metric tons per capita),1.2503145420788702,1.2813907298407436,1.321527790284985,1.1896794516728382
-PHL,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",,,,
-PHL,CO2 emissions from gaseous fuel consumption (% of total),,,,
-PHL,CO2 emissions from gaseous fuel consumption (kt),,,,
-PHL,CO2 emissions from liquid fuel consumption (% of total),,,,
-PHL,CO2 emissions from liquid fuel consumption (kt),,,,
-PHL,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),,,,
-PHL,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",,,,
-PHL,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),,,,
-PHL,CO2 emissions from solid fuel consumption (% of total),,,,
-PHL,CO2 emissions from solid fuel consumption (kt),,,,
-PHL,CO2 emissions from transport (% of total fuel combustion),,,,
-PHL,CO2 intensity (kg per kg of oil equivalent energy use),,,,
-PHL,CPIA building human resources rating (1=low to 6=high),,,,
-PHL,CPIA business regulatory environment rating (1=low to 6=high),,,,
-PHL,CPIA debt policy rating (1=low to 6=high),,,,
-PHL,CPIA economic management cluster average (1=low to 6=high),,,,
-PHL,CPIA efficiency of revenue mobilization rating (1=low to 6=high),,,,
-PHL,CPIA equity of public resource use rating (1=low to 6=high),,,,
-PHL,CPIA financial sector rating (1=low to 6=high),,,,
-PHL,CPIA fiscal policy rating (1=low to 6=high),,,,
-PHL,CPIA gender equality rating (1=low to 6=high),,,,
-PHL,CPIA macroeconomic management rating (1=low to 6=high),,,,
-PHL,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),,,,
-PHL,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),,,,
-PHL,CPIA property rights and rule-based governance rating (1=low to 6=high),,,,
-PHL,CPIA public sector management and institutions cluster average (1=low to 6=high),,,,
-PHL,CPIA quality of budgetary and financial management rating (1=low to 6=high),,,,
-PHL,CPIA quality of public administration rating (1=low to 6=high),,,,
-PHL,CPIA social protection rating (1=low to 6=high),,,,
-PHL,CPIA structural policies cluster average (1=low to 6=high),,,,
-PHL,CPIA trade rating (1=low to 6=high),,,,
-PHL,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",,,,
 PHL,Capture fisheries production (metric tons),1889154.23,1822063.71,1830848.66,1914918.37
-PHL,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",,,24.281664665108,
-PHL,"Cause of death, by injury (% of total)",,,5.96919013955976,
-PHL,"Cause of death, by non-communicable diseases (% of total)",,,69.7491443602475,
-PHL,"Central government debt, total (% of GDP)",,,,
-PHL,"Central government debt, total (current LCU)",,,,
 PHL,Cereal production (metric tons),27191819.46,26838576.91,26794250.87,27413962.2
 PHL,Cereal yield (kg per hectare),3692.3,3670.5,3737.9,3769.4
 PHL,Changes in inventories (constant LCU),42766420700.0,-26943785000.0,-44600240800.0,-386663323800.0
@@ -182,74 +105,33 @@ PHL,Changes in inventories (current US$),-306952465.016471,-511641727.1616057,-2
 PHL,"Charges for the use of intellectual property, payments (BoP, current US$)",751387515.62,916981982.9,832721346.3199999,519252390.14
 PHL,"Charges for the use of intellectual property, receipts (BoP, current US$)",16914324.04,44086035.445,27878391.36,15258017.75
 PHL,Chemicals (% of value added in manufacturing),5.8049921536658315,11.4768816694348,5.170985400502417,3.4721953576276077
-PHL,Child employment in agriculture (% of economically active children ages 7-14),,,,
-PHL,"Child employment in agriculture, female (% of female economically active children ages 7-14)",,,,
-PHL,"Child employment in agriculture, male (% of male economically active children ages 7-14)",,,,
-PHL,Child employment in manufacturing (% of economically active children ages 7-14),,,,
-PHL,"Child employment in manufacturing, female (% of female economically active children ages 7-14)",,,,
-PHL,"Child employment in manufacturing, male (% of male economically active children ages 7-14)",,,,
-PHL,Child employment in services (% of economically active children ages 7-14),,,,
-PHL,"Child employment in services, female (% of female economically active children ages 7-14)",,,,
-PHL,"Child employment in services, male (% of male economically active children ages 7-14)",,,,
 PHL,Children (0-14) living with HIV,500.0,500.0,590.0,700.0
 PHL,Children (ages 0-14) newly infected with HIV,200.0,200.0,200.0,200.0
-PHL,"Children in employment, female (% of female children ages 7-14)",,,,
-PHL,"Children in employment, male (% of male children ages 7-14)",,,,
-PHL,"Children in employment, self-employed (% of children in employment, ages 7-14)",,,,
-PHL,"Children in employment, self-employed, female (% of female children in employment, ages 7-14)",,,,
-PHL,"Children in employment, self-employed, male (% of male children in employment, ages 7-14)",,,,
-PHL,"Children in employment, study and work (% of children in employment, ages 7-14)",,,,
-PHL,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",,,,
-PHL,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",,,,
-PHL,"Children in employment, total (% of children ages 7-14)",,,,
-PHL,"Children in employment, unpaid family workers (% of children in employment, ages 7-14)",,,,
-PHL,"Children in employment, unpaid family workers, female (% of female children in employment, ages 7-14)",,,,
-PHL,"Children in employment, unpaid family workers, male (% of male children in employment, ages 7-14)",,,,
-PHL,"Children in employment, wage workers (% of children in employment, ages 7-14)",,,,
-PHL,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)",,,,
-PHL,"Children in employment, wage workers, male (% of male children in employment, ages 7-14)",,,,
-PHL,"Children in employment, work only (% of children in employment, ages 7-14)",,,,
-PHL,"Children in employment, work only, female (% of female children in employment, ages 7-14)",,,,
-PHL,"Children in employment, work only, male (% of male children in employment, ages 7-14)",,,,
 PHL,Children out of school (% of primary school age),7.14300012588501,7.36199998855591,6.15199995040894,5.98999977111816
 PHL,"Children out of school, female (% of female primary school age)",6.13199996948242,6.38800001144409,5.17600011825562,5.07299995422363
 PHL,"Children out of school, male (% of male primary school age)",8.08399963378906,8.26799964904785,7.05999994277954,6.84299993515015
 PHL,"Children out of school, primary",971896.0,1007092.0,845764.0,826193.0
 PHL,"Children out of school, primary, female",402261.0,421321.0,343031.0,337340.0
 PHL,"Children out of school, primary, male",569635.0,585771.0,502733.0,488853.0
-PHL,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),0.3,,,
 PHL,Claims on central government (annual growth as % of broad money),0.2894690100827946,2.2074394123441787,3.325401733396765,4.836475086217684
 PHL,"Claims on central government, etc. (% GDP)",17.787040266000513,17.22305591678272,19.82230275797688,26.386095900048943
 PHL,Claims on other sectors of the domestic economy (% of GDP),64.55202390171128,65.63194571582545,66.67114937433327,73.88881798191746
 PHL,Claims on other sectors of the domestic economy (annual growth as % of broad money),11.10587652268982,10.269600264505051,6.103887714646485,-0.6576911127662971
 PHL,Claims on private sector (annual growth as % of broad money),9.496896358754396,9.103649499939689,4.966817443823887,-0.1485577783136843
 PHL,Coal rents (% of GDP),0.063378916996683,0.0696404953218149,0.0549027596736656,0.0455449547968138
-PHL,Combustible renewables and waste (% of total energy),,,,
 PHL,"Commercial bank branches (per 100,000 adults)",8.99453539312217,9.02091679243253,9.19949995695592,9.16905913582668
 PHL,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",-989230000.0,-184517000.0,-337772000.0,433774000.0
 PHL,Commercial service exports (current US$),34812501415.61866,38378241753.85386,41244941365.33855,31800353958.436836
 PHL,Commercial service imports (current US$),25844797492.54973,26270817294.489487,27685821539.009605,17552795140.089012
 PHL,"Communications, computer, etc. (% of service exports, BoP)",71.87753563990657,70.54926703038832,68.52557001876441,88.60819414703374
 PHL,"Communications, computer, etc. (% of service imports, BoP)",27.78930070206399,28.14123365398266,30.496356060947587,43.11269545409515
-PHL,"Community health workers (per 1,000 people)",,,,
 PHL,Compensation of employees (% of expense),35.86783342347407,38.0298010247497,38.50715569159023,33.54804299185696
 PHL,Compensation of employees (current LCU),808419000000.0,987235000000.0,1115039000000.0,1178000000000.0
-PHL,Completeness of birth registration (%),91.8,,,
-PHL,"Completeness of birth registration, female (%)",91.2,,,
-PHL,"Completeness of birth registration, male (%)",92.3,,,
-PHL,"Completeness of birth registration, rural (%)",90.4,,,
-PHL,"Completeness of birth registration, urban (%)",93.7,,,
-PHL,Completeness of death registration with cause-of-death information (%),,,,
 PHL,"Compulsory education, duration (years)",11.0,13.0,13.0,13.0
 PHL,"Computer, communications and other services (% of commercial service exports)",71.86206912030374,70.53480886720399,68.51101196136834,88.60036814911672
 PHL,"Computer, communications and other services (% of commercial service imports)",26.968661099159164,26.723938844484465,29.143653709499716,41.80648460875548
-PHL,"Condom use, population ages 15-24, female (% of females ages 15-24)",,,,
-PHL,"Condom use, population ages 15-24, male (% of males ages 15-24)",,,,
 PHL,Consumer price index (2010 = 100),120.211352458706,126.593789832853,129.621996007385,132.7240608691
-PHL,Consumption of iodized salt (% of households),,57.0,,
 PHL,Container port traffic (TEU: 20 foot equivalent units),8249852.0,8859565.0,9333428.0,8019642.0
-PHL,"Contraceptive prevalence, any method (% of married women ages 15-49)",54.3,,,
-PHL,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",40.4,,,
 PHL,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",10.5506350950548,8.88737687226205,9.16408212528956,9.92593299560722
 PHL,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",4.96064098485432,4.13788664527891,4.24350251795864,4.45091680702618
 PHL,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",7.06989407271191,5.9495798067868,6.14792488284041,6.55963287554263
@@ -266,32 +148,9 @@ PHL,"Cost to export, border compliance (US$)",456.0048,456.0048,456.0048,
 PHL,"Cost to export, documentary compliance (US$)",52.5,52.5,52.5,
 PHL,"Cost to import, border compliance (US$)",689.5,689.5,689.5,
 PHL,"Cost to import, documentary compliance (US$)",67.5,67.5,67.5,
-PHL,Coverage of social insurance programs (% of population),,13.6550292272159,,
-PHL,Coverage of social insurance programs in 2nd quintile (% of population),,9.3445006221735,,
-PHL,Coverage of social insurance programs in 3rd quintile (% of population),,11.8976472967393,,
-PHL,Coverage of social insurance programs in 4th quintile (% of population),,16.1585312411768,,
-PHL,Coverage of social insurance programs in poorest quintile (% of population),,6.21726863792328,,
-PHL,Coverage of social insurance programs in richest quintile (% of population),,24.655624271099,,
-PHL,Coverage of social protection and labor programs (% of population),,43.0410765516831,,
-PHL,Coverage of social safety net programs (% of population),,34.8885454228766,,
-PHL,Coverage of social safety net programs in 2nd quintile (% of population),,47.0508926800797,,
-PHL,Coverage of social safety net programs in 3rd quintile (% of population),,35.0064602134168,,
-PHL,Coverage of social safety net programs in 4th quintile (% of population),,23.0464717666854,,
-PHL,Coverage of social safety net programs in poorest quintile (% of population),,57.2387197621073,,
-PHL,Coverage of social safety net programs in richest quintile (% of population),,12.1044382801072,,
-PHL,Coverage of unemployment benefits and ALMP (% of population),,,,
-PHL,Coverage of unemployment benefits and ALMP in 2nd quintile (% of population),,,,
-PHL,Coverage of unemployment benefits and ALMP in 3rd quintile (% of population),,,,
-PHL,Coverage of unemployment benefits and ALMP in 4th quintile (% of population),,,,
-PHL,Coverage of unemployment benefits and ALMP in poorest quintile (% of population),,,,
-PHL,Coverage of unemployment benefits and ALMP in richest quintile (% of population),,,,
 PHL,Crop production index (2014-2016 = 100),103.23,102.8,101.81,102.93
 PHL,Current account balance (% of GDP),-0.6523879294305766,-2.5593930631527098,-0.808557862517338,3.2006500923256422
 PHL,"Current account balance (BoP, current US$)",-2142968677.37994,-8877047441.26577,-3046835246.6566997,11578388370.8856
-PHL,"Current education expenditure, primary (% of total expenditure in primary public institutions)",,,,
-PHL,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",,,,
-PHL,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",,,,
-PHL,"Current education expenditure, total (% of total expenditure in public institutions)",,,,
 PHL,Current health expenditure (% of GDP),3.96,3.95,4.17,5.16
 PHL,Current health expenditure per capita (current US$),122.0,126.0,142.0,166.0
 PHL,"Current health expenditure per capita, PPP (current international $)",317.0,339.0,379.0,423.0
@@ -302,14 +161,9 @@ PHL,"Death rate, crude (per 1,000 people)",5.665,5.631,5.609,5.566
 PHL,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",5.4150584116388325,4.5748421611368215,6.045071747189556,6.172605257753128
 PHL,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",5264401242.3,4682281514.6,6525794572.6,5652127911.9
 PHL,"Debt service on external debt, total (TDS, current US$)",11208123501.1,8811185518.0,10619840093.8,9290532908.7
-PHL,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),56.9,,,
 PHL,Deposit interest rate (%),1.8785,3.11671003598467,4.08365194191513,
 PHL,"Depositors with commercial banks (per 1,000 adults)",507.035778646856,576.091093603488,658.278993201935,686.503998069815
 PHL,Depth of credit information index (0=low to 8=high),7.0,7.0,7.0,
-PHL,Diabetes prevalence (% of population ages 20 to 79),,,,
-PHL,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),44.8,,,
-PHL,Diarrhea treatment (% of children under 5 who received ORS packet),44.8,,,
-PHL,Disaster risk reduction progress score (1-5 scale; 5=best),,,,
 PHL,Discrepancy in expenditure estimate of GDP (constant LCU),,-600.0,-600.0,-700.0
 PHL,Discrepancy in expenditure estimate of GDP (current LCU),-200.0,-600.0,700.0,0.0
 PHL,Domestic credit provided by financial sector (% of GDP),82.33906416771167,82.85500163260824,86.49345213231008,100.27491388196673
@@ -323,8 +177,6 @@ PHL,"Domestic general government health expenditure per capita, PPP (current int
 PHL,Domestic private health expenditure (% of current health expenditure),60.37,60.83,58.99,54.06
 PHL,Domestic private health expenditure per capita (current US$),74.0,77.0,84.0,90.0
 PHL,"Domestic private health expenditure per capita, PPP (current international $)",191.0,206.0,224.0,229.0
-PHL,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",,,,
-PHL,Ease of doing business rank (1=most business-friendly regulations),,,95.0,
 PHL,Ease of doing business score (0 = lowest performance to 100 = best performance),59.33172,60.87374,62.82943,
 PHL,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",0.0398200005292892,,0.127110004425049,0.19548000395298
 PHL,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",0.0540699996054173,,0.101410001516342,0.136539995670319
@@ -347,19 +199,6 @@ PHL,"Educational attainment, at least completed primary, population 25+ years, t
 PHL,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",27.4017543792725,,30.9643001556396,36.268741607666
 PHL,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",22.6841773986816,,25.2949199676514,31.7386093139648
 PHL,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",25.0633068084717,,28.1452407836914,34.003360748291
-PHL,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",59.5707397460938,,,
-PHL,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",55.9086494445801,,,
-PHL,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",57.7738304138184,,,
-PHL,Electric power consumption (kWh per capita),,,,
-PHL,Electric power transmission and distribution losses (% of output),,,,
-PHL,Electricity production from coal sources (% of total),,,,
-PHL,Electricity production from hydroelectric sources (% of total),,,,
-PHL,Electricity production from natural gas sources (% of total),,,,
-PHL,Electricity production from nuclear sources (% of total),,,,
-PHL,Electricity production from oil sources (% of total),,,,
-PHL,"Electricity production from oil, gas and coal sources (% of total)",,,,
-PHL,"Electricity production from renewable sources, excluding hydroelectric (% of total)",,,,
-PHL,"Electricity production from renewable sources, excluding hydroelectric (kWh)",,,,
 PHL,"Employers, female (% of female employment) (modeled ILO estimate)",2.30904305797402,2.52288254733971,2.15866499220974,1.85532320489862
 PHL,"Employers, male (% of male employment) (modeled ILO estimate)",4.2026628040357,4.29470434504308,3.44160613467498,2.94640127017002
 PHL,"Employers, total (% of total employment) (modeled ILO estimate)",3.48814902467867,3.61884053983219,2.94506670243052,2.52616927172568
@@ -384,15 +223,7 @@ PHL,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)
 PHL,"Employment to population ratio, ages 15-24, male (%) (national estimate)",43.119,41.201,39.569,34.427
 PHL,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",34.323,33.307,32.395,28.009
 PHL,"Employment to population ratio, ages 15-24, total (%) (national estimate)",34.337,33.32,32.401,28.008
-PHL,"Energy imports, net (% of energy use)",,,,
 PHL,Energy intensity level of primary energy (MJ/$2017 PPP GDP),2.89,2.8,2.66,2.78
-PHL,Energy related methane emissions (% of total),,,,
-PHL,Energy use (kg of oil equivalent per capita),,,,
-PHL,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",,,,
-PHL,Exclusive breastfeeding (% of children under 6 months),,54.9,,
-PHL,Expenditure on primary education (% of government expenditure on education),,,,
-PHL,Expenditure on secondary education (% of government expenditure on education),,,,
-PHL,Expenditure on tertiary education (% of government expenditure on education),,,,
 PHL,Expense (% of GDP),13.613157568526868,14.212559318198153,14.8359837062188,19.560302924463908
 PHL,Expense (current LCU),2253883000000.0,2595951000000.0,2895667000000.0,3511382170000.0
 PHL,Export unit value index (2015 = 100),100.1,102.0,100.1,99.7
@@ -420,10 +251,6 @@ PHL,"External debt stocks, total (DOD, current US$)",73108188466.5,78989513051.7
 PHL,External health expenditure (% of current health expenditure),2.19,0.31,0.41,0.74
 PHL,External health expenditure per capita (current US$),3.0,0.0,1.0,1.0
 PHL,"External health expenditure per capita, PPP (current international $)",7.0,1.0,2.0,3.0
-PHL,Female genital mutilation prevalence (%),,,,
-PHL,Female headed households (% of households with a female head),20.6,,,
-PHL,Female primary school age children out-of-school (%),,,4.81208038330078,
-PHL,Female pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,,,89.1617202758789,
 PHL,Female share of employment in senior and middle management (%),23.245,25.509,29.31,35.429
 PHL,"Fertility rate, total (births per woman)",2.865,2.831,2.805,2.777
 PHL,Fertilizer consumption (% of fertilizer production),652.8851582565283,366.2112342881101,1403.632540770887,634.1566071966091
@@ -434,22 +261,6 @@ PHL,Final consumption expenditure (constant 2015 US$),291095415439.1834,31085388
 PHL,Final consumption expenditure (constant LCU),14467707776000.0,15449721778000.0,16427323006000.0,15563232405000.0
 PHL,Final consumption expenditure (current LCU),13825633833000.0,15449721778000.0,16721771913000.0,16215746640000.0
 PHL,Final consumption expenditure (current US$),274297885810.8092,293378318401.1524,322840411795.68616,326771628041.3451
-PHL,Financial intermediary services indirectly Measured (FISIM) (constant LCU),,,,
-PHL,Financial intermediary services indirectly Measured (FISIM) (current LCU),,,,
-PHL,Firms competing against unregistered firms (% of firms),,,,
-PHL,Firms expected to give gifts in meetings with tax officials (% of firms),,,,
-PHL,Firms experiencing electrical outages (% of firms),,,,
-PHL,Firms experiencing losses due to theft and vandalism (% of firms),,,,
-PHL,Firms formally registered when operations started (% of firms),,,,
-PHL,Firms offering formal training (% of firms),,,,
-PHL,Firms that do not report all sales for tax purposes (% of firms),,,,
-PHL,Firms that spend on R&D (% of firms),,,,
-PHL,Firms using banks to finance investment (% of firms),,,,
-PHL,Firms using banks to finance working capital (% of firms),,,,
-PHL,Firms visited or required meetings with tax officials (% of firms),,,,
-PHL,Firms with female participation in ownership (% of firms),,,,
-PHL,Firms with female top manager (% of firms),,,,
-PHL,"Fish species, threatened",,91.0,,
 PHL,Fixed broadband subscriptions,3400000.0,3790000.0,6310000.0,7940000.0
 PHL,Fixed broadband subscriptions (per 100 people),3.14401,3.4609,5.69731,7.08109
 PHL,Fixed telephone subscriptions,4163280.0,4132440.0,4255810.0,4731200.0
@@ -466,7 +277,6 @@ PHL,"Foreign direct investment, net outflows (BoP, current US$)",3304731499.2926
 PHL,Forest area (% of land area),23.758023946071035,23.87500419223933,23.99201797632223,24.109031760405134
 PHL,Forest area (sq. km),70839.3,71188.1,71537.0,71885.9
 PHL,Forest rents (% of GDP),0.296677829690723,0.198451064762095,0.168695263776435,0.190645713845517
-PHL,Fossil fuel energy consumption (% of total),,,,
 PHL,Fuel exports (% of merchandise exports),1.5088466587211262,1.6957157194211647,1.475881529096064,1.0897025700144671
 PHL,Fuel imports (% of merchandise imports),11.190855400788662,12.026051410067318,12.002698765865931,8.684470192341662
 PHL,GDP (constant 2015 US$),351113338977.9417,373379140707.0472,396224439244.7201,358510629282.92236
@@ -484,12 +294,9 @@ PHL,GDP per capita growth (annual %),5.0643932525349555,4.548700917826395,4.3765
 PHL,"GDP per capita, PPP (constant 2021 international $)",8695.214611815672,9090.733918670308,9488.592211414982,8446.916137360944
 PHL,"GDP per capita, PPP (current international $)",7874.391182849398,8426.753323348534,8958.371063825096,8230.311614282084
 PHL,GDP per person employed (constant 2021 PPP $),22161.822135253387,23073.24286283696,23759.269287140636,22918.268674449533
-PHL,GDP per unit of energy use (PPP $ per kg of oil equivalent),,,,
-PHL,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),,,,
 PHL,"GDP, PPP (constant 2021 international $)",928114173538.5018,986970399935.754,1047358437124.1237,947667774087.5906
 PHL,"GDP, PPP (current international $)",840500711144.9617,914882799575.082,988832200555.3496,923366701020.7542
 PHL,GDP: linked series (current LCU),16556651083000.0,18265190258000.0,19517863171999.9,17951573570000.0
-PHL,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),,,,
 PHL,GNI (constant 2015 US$),389697119862.329,412733266056.467,434923187644.395,385077978757.34
 PHL,GNI (constant LCU),19084224137000.0,20212348916000.0,21299032434000.0,18858015834000.0
 PHL,GNI (current LCU),18383179108000.0,20212348916000.0,21472060353000.0,19312000510000.0
@@ -512,7 +319,6 @@ PHL,General government final consumption expenditure (constant 2015 US$),3894789
 PHL,General government final consumption expenditure (constant LCU),1939879737800.0,2199637346400.0,2399867443800.0,2651875451300.0
 PHL,General government final consumption expenditure (current LCU),1874770250100.0,2199637346400.0,2433439250300.0,2739671248100.0
 PHL,General government final consumption expenditure (current US$),37195077071.69233,41769419220.10094,46981416427.27942,55208486782.308334
-PHL,Gini index,,42.3,,
 PHL,Goods and services expense (% of expense),20.64756688789968,20.24714642148484,19.78538968741917,25.20659834642835
 PHL,Goods and services expense (current LCU),465372000000.0,525606000000.0,572919000000.0,885100000000.0
 PHL,"Goods exports (BoP, current US$)",51814261868.7948,51976749434.2426,53476930080.7485,48211513848.63889
@@ -525,9 +331,6 @@ PHL,"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence In
 PHL,Government Effectiveness: Standard Error,0.199878841638565,0.207521453499794,0.214501276612282,0.232876241207123
 PHL,"Government expenditure on education, total (% of GDP)",3.97099995613098,3.86400008201599,3.35599994659424,3.87700009346008
 PHL,"Government expenditure on education, total (% of government expenditure)",19.6270008087158,18.7360000610352,17.8880004882812,16.9740009307861
-PHL,"Government expenditure per student, primary (% of GDP per capita)",,,,
-PHL,"Government expenditure per student, secondary (% of GDP per capita)",,,,
-PHL,"Government expenditure per student, tertiary (% of GDP per capita)",,,,
 PHL,Grants and other revenue (% of revenue),8.964280643821281,9.480139901219736,9.844209969335928,12.294335880628148
 PHL,Grants and other revenue (current LCU),221624000000.0,268717000000.0,308775000000.0,351062830000.0
 PHL,"Grants, excluding technical cooperation (BoP, current US$)",428590000.0,443350000.0,389510000.0,413740000.0
@@ -547,11 +350,6 @@ PHL,Gross fixed capital formation (constant 2015 US$),91055119582.52551,10284577
 PHL,Gross fixed capital formation (constant LCU),4412035368100.0,4983346471400.0,5175519970500.0,3761791285800.0
 PHL,Gross fixed capital formation (current LCU),4245610147900.0,4983346471400.0,5300100183200.0,3824091246500.0
 PHL,Gross fixed capital formation (current US$),84232079455.64336,94629911709.57568,102326866710.3652,77061177023.75877
-PHL,"Gross fixed capital formation, private sector (% of GDP)",,,,
-PHL,"Gross fixed capital formation, private sector (current LCU)",,,,
-PHL,"Gross intake ratio in first grade of primary education, female (% of relevant age group)",93.47241,,,
-PHL,"Gross intake ratio in first grade of primary education, male (% of relevant age group)",95.52592,,,
-PHL,"Gross intake ratio in first grade of primary education, total (% of relevant age group)",94.5203,,,
 PHL,Gross national expenditure (% of GDP),109.0637880346518,111.73618755578585,112.07600223051712,107.76388168182184
 PHL,Gross national expenditure (constant 2015 US$),378699346417.9507,408341585399.42065,431416949806.92993,379500970062.8546
 PHL,Gross national expenditure (constant LCU),18924035439100.0,20408827244100.0,21559672173000.0,18939065046000.0
@@ -562,11 +360,6 @@ PHL,Gross savings (% of GDP),35.48863167521515,33.80705071795904,31.755187209582
 PHL,Gross savings (% of GNI),31.96252882092297,30.5502450997456,28.86511069587607,23.06986605172483
 PHL,Gross savings (current LCU),5875728920596.391,6174922134253.772,6197933989578.768,4455252649565.416
 PHL,Gross savings (current US$),116573318806.55617,117257015889.11984,119660976832.39516,89780026412.27794
-PHL,Gross value added at basic prices (GVA) (constant 2015 US$),,,,
-PHL,Gross value added at basic prices (GVA) (constant LCU),,,,
-PHL,Gross value added at basic prices (GVA) (current LCU),,,,
-PHL,Gross value added at basic prices (GVA) (current US$),,,,
-PHL,HFC gas emissions (thousand metric tons of CO2 equivalent),,,,
 PHL,High-technology exports (% of manufactured exports),60.31751839732586,61.34579372354565,62.24658366354351,67.04488321827799
 PHL,High-technology exports (current US$),33502474391.0,33903552582.999996,35825934134.0,34896245637.0
 PHL,"Hospital beds (per 1,000 people)",0.99,0.95,0.98,0.99
@@ -595,7 +388,6 @@ PHL,ICT goods exports (% of total goods exports),35.87,38.32,49.02,50.86
 PHL,ICT goods imports (% total goods imports),19.76,22.06,21.0,24.56
 PHL,"ICT service exports (% of service exports, BoP)",16.18767114635931,15.469859434088844,14.778028173448622,18.63383863708008
 PHL,"ICT service exports (BoP, current US$)",5638432512.78667,5939974716.32148,6098008299.54407,5929697458.30431
-PHL,IDA resource allocation index (1=low to 6=high),,,,
 PHL,"IFC, private nonguaranteed (NFL, US$)",-55675105.0,225840339.0,123885693.0,-39408874.0
 PHL,"IMF repurchases and charges (TDS, current US$)",621258.8,1121495.8,11502513.4,3659587.4
 PHL,"Immunization, DPT (% of children ages 12-23 months)",80.0,75.0,71.0,71.0
@@ -617,13 +409,6 @@ PHL,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",
 PHL,"Incidence of HIV, all (per 1,000 uninfected population)",0.12,0.14,0.15,0.16
 PHL,"Incidence of malaria (per 1,000 population at risk)",0.267733904653961,0.17298329175016,0.211290333960482,0.231839154859663
 PHL,"Incidence of tuberculosis (per 100,000 people)",554.0,554.0,554.0,544.0
-PHL,Income share held by fourth 20%,,20.7,,
-PHL,Income share held by highest 10%,,33.5,,
-PHL,Income share held by highest 20%,,49.2,,
-PHL,Income share held by lowest 10%,,2.5,,
-PHL,Income share held by lowest 20%,,6.2,,
-PHL,Income share held by second 20%,,9.9,,
-PHL,Income share held by third 20%,,14.0,,
 PHL,Individuals using the Internet (% of population),41.6,44.1,43.0266,53.7649
 PHL,"Industrial design applications, nonresident, by count",666.0,660.0,625.0,628.0
 PHL,"Industrial design applications, resident, by count",751.0,929.0,1110.0,665.0
@@ -637,7 +422,6 @@ PHL,"Industry (including construction), value added per worker (constant 2015 US
 PHL,"Inflation, GDP deflator (annual %)",2.320259946801457,3.7406538308698742,0.6970763010453425,1.6504901854718952
 PHL,"Inflation, GDP deflator: linked series (annual %)",2.32025994680146,3.74065383086987,0.697076301045342,1.6504901854719
 PHL,"Inflation, consumer prices (annual %)",2.85318772590947,5.30934661627707,2.39206534422404,2.3931623931624
-PHL,Informal payments to public officials (% of firms),,,,
 PHL,Insurance and financial services (% of commercial service exports),0.9267032374109664,0.9528705073257284,0.7848141180377012,0.5202838313001878
 PHL,Insurance and financial services (% of commercial service imports),7.768036677867666,7.73263971922357,8.725907569315181,11.007586453613396
 PHL,"Insurance and financial services (% of service exports, BoP)",0.9261938583152258,0.952402946900738,0.7844512810687395,0.5199266495742033
@@ -652,19 +436,15 @@ PHL,"Interest rate spread (lending rate minus deposit rate, %)",3.74875,3.001789
 PHL,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",645000.0,188000.0,183000.0,111000.0
 PHL,"Internally displaced persons, new displacement associated with disasters (number of cases)",2529000.0,3802000.0,4495000.0,4450000.0
 PHL,"Internally displaced persons, total displaced by conflict and violence (number of people)",445000.0,301000.0,182000.0,153000.0
-PHL,International migrant stock (% of population),,,,
-PHL,"International migrant stock, total",,,,
 PHL,"International tourism, expenditures (% of total imports)",10.529116249412397,9.614746315749,9.866186727678954,4.874797199464774
 PHL,"International tourism, expenditures (current US$)",12442000000.0,12474000000.0,12926000000.0,4872000000.0
 PHL,"International tourism, expenditures for passenger transport items (current US$)",592000000.0,611000000.0,888000000.0,304000000.0
 PHL,"International tourism, expenditures for travel items (current US$)",11850000000.0,11863000000.0,12038000000.0,4568000000.0
 PHL,"International tourism, number of arrivals",6621000.0,7168000.0,8261000.0,1483000.0
-PHL,"International tourism, number of departures",,,,1483000.0
 PHL,"International tourism, receipts (% of total exports)",9.635769402454253,10.749793135317638,12.090864779317432,3.4597919499058714
 PHL,"International tourism, receipts (current US$)",8349000000.0,9715000000.0,11455000000.0,2769000000.0
 PHL,"International tourism, receipts for passenger transport items (current US$)",1361000000.0,1475000000.0,1674000000.0,759000000.0
 PHL,"International tourism, receipts for travel items (current US$)",6988000000.0,8240000000.0,9781000000.0,2010000000.0
-PHL,Investment in ICT with private participation (current US$),,,,
 PHL,Investment in energy with private participation (current US$),1700000000.0,19120000.0,52500000.0,59610000.0
 PHL,Investment in transport with private participation (current US$),53550000.0,,1733250000.0,
 PHL,Investment in water and sanitation with private participation (current US$),,18960000.0,32070000.0,
@@ -683,26 +463,11 @@ PHL,"Labor force participation rate, male (% of male population ages 15-64) (mod
 PHL,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",59.14,58.98,59.44,54.75
 PHL,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",59.141,58.981,59.444,54.746
 PHL,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",61.264,61.074,61.577,56.914
-PHL,Labor force with advanced education (% of total working-age population with advanced education),60.41,,,
-PHL,"Labor force with advanced education, female (% of female working-age population with advanced education)",54.019,,,
-PHL,"Labor force with advanced education, male (% of male working-age population with advanced education)",68.397,,,
-PHL,Labor force with basic education (% of total working-age population with basic education),65.648,,,
-PHL,"Labor force with basic education, female (% of female working-age population with basic education)",43.644,,,
-PHL,"Labor force with basic education, male (% of male working-age population with basic education)",83.939,,,
-PHL,Labor force with intermediate education (% of total working-age population with intermediate education),53.073,,,
-PHL,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",39.792,,,
-PHL,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",66.43,,,
 PHL,"Labor force, female (% of total labor force)",37.79024907427663,38.27815925477706,38.82039726595128,38.59304441758389
 PHL,"Labor force, total",42974771.0,43800369.0,45091808.0,42419079.0
 PHL,Labor tax and contributions (% of commercial profits),8.7,8.7,8.9,
 PHL,Land area (sq. km),298170.0,298170.0,298170.0,298170.0
-PHL,Land area where elevation is below 5 meters (% of total land area),,,,
 PHL,Land under cereal production (hectares),7364502.0,7311944.0,7168316.0,7272792.0
-PHL,"Lead time to export, median case (days)",,1.0,,
-PHL,"Lead time to import, median case (days)",,2.0,,
-PHL,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),,,90.9132614135742,
-PHL,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),,,89.6832656860351,
-PHL,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),,,92.1014251708984,
 PHL,Lending interest rate (%),5.62725,6.1185,7.09583333333333,
 PHL,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,28.0621461327,28.1742007918,26.2510385326,26.2510385326
 PHL,"Life expectancy at birth, female (years)",73.35,73.556,73.742,73.997
@@ -720,23 +485,12 @@ PHL,"Literacy rate, youth female (% of females ages 15-24)",,,98.8929061889648,9
 PHL,"Literacy rate, youth male (% of males ages 15-24)",,,97.8973083496094,99.1074905395508
 PHL,"Literacy rate, youth total (% of people ages 15-24)",,,98.3845062255859,99.2161483764648
 PHL,Livestock production index (2014-2016 = 100),97.94,98.19,100.14,94.27
-PHL,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),,3.06,,
-PHL,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),,2.78,,
-PHL,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),,3.29,,
-PHL,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),,2.53,,
-PHL,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),,2.98,,
-PHL,Logistics performance index: Overall (1=low to 5=high),,2.9,,
-PHL,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),,2.73,,
-PHL,Losses due to theft and vandalism (% of annual sales for affected firms),,,,
 PHL,Low-birthweight babies (% of births),21.08948,21.08273142,21.10259009,21.14414662
 PHL,"Lower secondary completion rate, female (% of relevant age group)",83.8720016479492,85.7750015258789,87.7089996337891,89.7020034790039
 PHL,"Lower secondary completion rate, male (% of relevant age group)",71.0469970703125,74.0400009155273,75.8970031738281,77.1429977416992
 PHL,"Lower secondary completion rate, total (% of relevant age group)",77.2630004882812,79.7369995117188,81.625,83.2149963378906
 PHL,Lower secondary school starting age (years),12.0,12.0,12.0,12.0
 PHL,Machinery and transport equipment (% of value added in manufacturing),39.55192791014095,24.62788039843072,19.592373147945064,28.842078699771907
-PHL,Male primary school age children out-of-school (%),,,5.12960052490234,
-PHL,Male pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,,,91.6743545532226,
-PHL,"Mammal species, threatened",,38.0,,
 PHL,Manufactures exports (% of merchandise exports),80.8345389911726,81.89096609467218,81.14698806457463,79.81220881317948
 PHL,Manufactures imports (% of merchandise imports),73.61774323271332,73.75378010032814,73.53270922326801,74.88475991693213
 PHL,"Manufacturing, value added (% of GDP)",19.50020205604885,19.098247167023843,18.516454400011405,17.658179047866053
@@ -749,7 +503,6 @@ PHL,Marine protected areas (% of territorial waters),1.15906292876311,1.15906292
 PHL,Market capitalization of listed domestic companies (% of GDP),88.40744295391757,74.44994175835483,73.0757984667356,75.40827262881467
 PHL,Market capitalization of listed domestic companies (current US$),290401420000.0,258223590000.0,275366710000.0,272790290000.0
 PHL,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",84.0,82.0,81.0,78.0
-PHL,"Maternal mortality ratio (national estimate, per 100,000 live births)",,,,
 PHL,Medium and high-tech exports (% manufactured exports),78.87594901357599,80.7921795455908,81.188798662447,81.1829358082626
 PHL,Medium and high-tech manufacturing value added (% manufacturing value added),46.3621574289063,37.548063992733,26.1104440499254,41.5717734792962
 PHL,Merchandise exports (current US$),68713000000.0,67488000000.0,70334000000.0,63879000000.0
@@ -779,7 +532,6 @@ PHL,Merchandise imports from low- and middle-income economies in Sub-Saharan Afr
 PHL,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),4.198486842031571,4.671955252503925,4.664569882501015,4.701414760510487
 PHL,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),39.16347365406994,39.33944662761983,41.86482584646468,41.4200919898222
 PHL,Merchandise trade (% of GDP),51.9406409224261,52.64848387658114,48.628349223622685,42.74485428566249
-PHL,Methane emissions (% change from 1990),,,,
 PHL,Methane emissions (kt of CO2 equivalent),65882.24379,66117.8598,65051.00831,65722.00682
 PHL,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),3273.0,3356.9,3335.6,3216.2
 PHL,Military expenditure (% of GDP),1.16796083355235,1.18424717696738,1.13133132483668,1.2972400391072498
@@ -794,13 +546,9 @@ PHL,"Mortality caused by road traffic injury (per 100,000 population)",11.8,11.9
 PHL,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",24.6,24.6,24.5,
 PHL,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",18.8,18.8,18.8,
 PHL,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",30.6,30.5,30.4,
-PHL,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",,,202.8,
-PHL,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",,,166.2,
-PHL,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",,,250.8,
 PHL,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",0.2,0.2,0.2,
 PHL,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",0.1,0.1,0.1,
 PHL,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",0.3,0.3,0.3,
-PHL,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",,,16.9,
 PHL,"Mortality rate, adult, female (per 1,000 female adults)",115.335,113.193,111.252,108.591
 PHL,"Mortality rate, adult, male (per 1,000 male adults)",160.841,158.765,156.406,153.067
 PHL,"Mortality rate, infant (per 1,000 live births)",22.1,22.1,22.2,22.2
@@ -810,16 +558,9 @@ PHL,"Mortality rate, neonatal (per 1,000 live births)",13.8,14.0,14.3,14.4
 PHL,"Mortality rate, under-5 (per 1,000 live births)",27.9,28.0,28.0,28.0
 PHL,"Mortality rate, under-5, female (per 1,000 live births)",25.0,25.1,25.1,25.1
 PHL,"Mortality rate, under-5, male (per 1,000 live births)",30.7,30.8,30.8,30.9
-PHL,Multidimensional poverty headcount ratio (UNDP) (% of population),5.8,,,
-PHL,Multidimensional poverty headcount ratio (World Bank) (% of population),,4.4,,
 PHL,Multilateral debt service (% of public and publicly guaranteed debt service),16.60618326877489,20.492074867949672,16.231458085539796,17.93034911269946
 PHL,"Multilateral debt service (TDS, current US$)",874216118.3,959496633.5,1059231610.8,1013446266.9
 PHL,Natural gas rents (% of GDP),0.105639145946104,0.166364708759932,0.153193275613716,0.115070223869134
-PHL,Net ODA provided to the least developed countries (% of GNI),,,,
-PHL,"Net ODA provided, to the least developed countries (current US$)",,,,
-PHL,"Net ODA provided, total (% of GNI)",,,,
-PHL,"Net ODA provided, total (constant 2021 US$)",,,,
-PHL,"Net ODA provided, total (current US$)",,,,
 PHL,Net ODA received (% of GNI),0.0440010333508201,0.1426200793756348,0.2137896822958244,0.3742261071618231
 PHL,Net ODA received (% of central government expense),0.358882371900053,1.1104550150476442,1.5853014041685864,2.0581794924260386
 PHL,Net ODA received (% of gross capital formation),0.1911485387830762,0.5812916919137404,0.8908293472954101,2.3092834888433615
@@ -834,12 +575,10 @@ PHL,"Net bilateral aid flows from DAC donors, Belgium (current US$)",3140000.104
 PHL,"Net bilateral aid flows from DAC donors, Canada (current US$)",10609999.6566772,10829999.9237061,8979999.54223633,10590000.1525879
 PHL,"Net bilateral aid flows from DAC donors, Czechia (current US$)",100000.001490116,209999.993443489,289999.99165535,189999.997615814
 PHL,"Net bilateral aid flows from DAC donors, Denmark (current US$)",-19999.9995529652,330000.013113022,579999.983310699,720000.028610229
-PHL,"Net bilateral aid flows from DAC donors, Estonia (current US$)",,,,
 PHL,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",28280000.6866455,37619998.9318848,36479999.5422363,26629999.1607666
 PHL,"Net bilateral aid flows from DAC donors, Finland (current US$)",649999.976158142,629999.995231628,620000.004768372,629999.995231628
 PHL,"Net bilateral aid flows from DAC donors, France (current US$)",-11590000.1525879,106029998.779297,-11319999.6948242,274679992.675781
 PHL,"Net bilateral aid flows from DAC donors, Germany (current US$)",34950000.762939505,14890000.3433228,30850000.3814697,31309999.4659424
-PHL,"Net bilateral aid flows from DAC donors, Greece (current US$)",,,,
 PHL,"Net bilateral aid flows from DAC donors, Hungary (current US$)",39999.9991059303,159999.99642372102,409999.99642372096,349999.99403953605
 PHL,"Net bilateral aid flows from DAC donors, Iceland (current US$)",,140000.000596046,29999.999329447703,109999.999403954
 PHL,"Net bilateral aid flows from DAC donors, Ireland (current US$)",189999.997615814,39999.9991059303,119999.997317791,370000.0047683721
@@ -852,9 +591,6 @@ PHL,"Net bilateral aid flows from DAC donors, Netherlands (current US$)",569999.
 PHL,"Net bilateral aid flows from DAC donors, New Zealand (current US$)",2269999.98092651,6349999.90463257,3049999.95231628,4989999.771118159
 PHL,"Net bilateral aid flows from DAC donors, Norway (current US$)",2920000.07629395,939999.997615814,1669999.95708466,3480000.01907349
 PHL,"Net bilateral aid flows from DAC donors, Poland (current US$)",0.0,79999.9982118607,79999.9982118607,129999.995231628
-PHL,"Net bilateral aid flows from DAC donors, Portugal (current US$)",,,,
-PHL,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)",9999.99977648258,,,
-PHL,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",,,,
 PHL,"Net bilateral aid flows from DAC donors, Spain (current US$)",2630000.1144409203,889999.985694885,850000.023841858,1230000.01907349
 PHL,"Net bilateral aid flows from DAC donors, Sweden (current US$)",7079999.92370605,6780000.20980835,5809999.94277954,5980000.01907349
 PHL,"Net bilateral aid flows from DAC donors, Switzerland (current US$)",1570000.05245209,1299999.95231628,1070000.05245209,1559999.94277954
@@ -867,8 +603,6 @@ PHL,"Net errors and omissions (BoP, current US$)",-1587610064.31827,-2826085535.
 PHL,"Net financial account (BoP, current US$)",-3661336037.56972,-11638271086.789,-190849492.357554,9116029384.34737
 PHL,"Net financial flows, IBRD (NFL, current US$)",460499000.0,726326000.0,632029000.0,1658484000.0
 PHL,"Net financial flows, IDA (NFL, current US$)",-17012000.0,-17217000.0,-16889000.0,-16987000.0
-PHL,"Net financial flows, IMF concessional (NFL, current US$)",,,,
-PHL,"Net financial flows, IMF nonconcessional (NFL, current US$)",,,,
 PHL,"Net financial flows, RDB concessional (NFL, current US$)",-96047000.0,-82567000.0,-47608000.0,-19708000.0
 PHL,"Net financial flows, RDB nonconcessional (NFL, current US$)",126293000.0,401180000.0,577517000.0,4009410000.0
 PHL,"Net financial flows, bilateral (NFL, current US$)",-365682415.6,-143237704.7,273229599.7,879518565.8
@@ -878,16 +612,9 @@ PHL,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)"
 PHL,Net foreign assets (current LCU),4403155593690.5205,4461032233073.48,4857890210004.0,6095824356050.7
 PHL,"Net incurrence of liabilities, total (% of GDP)",3.660402076252415,2.7681507438913644,2.232142864004703,11.54856203505507
 PHL,"Net incurrence of liabilities, total (current LCU)",606040000000.0,505608000000.0,435666590000.0,2073148610000.0
-PHL,Net intake rate in grade 1 (% of official school-age population),65.06043,,,
-PHL,"Net intake rate in grade 1, female (% of official school-age population)",65.00299,,,
-PHL,"Net intake rate in grade 1, male (% of official school-age population)",65.11555,,,
-PHL,Net investment in nonfinancial assets (% of GDP),,,,
-PHL,Net investment in nonfinancial assets (current LCU),,,,
 PHL,Net lending (+) / net borrowing (-) (% of GDP),-2.1160499079413984,-3.093624057666249,-3.2828012695528286,-7.447803234555109
 PHL,Net lending (+) / net borrowing (-) (current LCU),-350347000000.0,-565056320000.0,-640732660000.0,-1336997877000.0
 PHL,Net migration,36111.0,-15371.0,-24066.0,-41937.0
-PHL,Net official aid received (constant 2021 US$),,,,
-PHL,Net official aid received (current US$),,,,
 PHL,Net official development assistance and official aid received (constant 2021 US$),187380004.882813,579690002.441406,917809997.558594,1483920043.94531
 PHL,Net official development assistance and official aid received (current US$),160479995.727539,547400024.414063,886270019.53125,1456359985.35156
 PHL,Net official development assistance received (constant 2021 US$),187380004.882813,579690002.441406,917809997.558594,1483920043.94531
@@ -897,34 +624,18 @@ PHL,"Net official flows from UN agencies, FAO (current US$)",,542829.990386963,7
 PHL,"Net official flows from UN agencies, IAEA (current US$)",482831.68673515297,390651.494264603,237063.42279911,181515.038013458
 PHL,"Net official flows from UN agencies, IFAD (current US$)",10884613.9907837,5042009.83047485,7604685.306549069,8132975.578308111
 PHL,"Net official flows from UN agencies, ILO (current US$)",1695940.0177002,2119485.61668396,2499880.07545471,2448479.65240479
-PHL,"Net official flows from UN agencies, SDGFUND (current US$)",,,,
-PHL,"Net official flows from UN agencies, SPRP (current US$)",,,,
 PHL,"Net official flows from UN agencies, UNAIDS (current US$)",191400.00641346,156131.401658058,303087.294101715,
-PHL,"Net official flows from UN agencies, UNCDF (current US$)",,,,
-PHL,"Net official flows from UN agencies, UNCOVID (current US$)",,,,
-PHL,"Net official flows from UN agencies, UNCTAD (current US$)",,,,
 PHL,"Net official flows from UN agencies, UNDP (current US$)",713550.746440887,692014.336585999,618280.053138733,837875.783443451
-PHL,"Net official flows from UN agencies, UNECE (current US$)",,,,
-PHL,"Net official flows from UN agencies, UNEP (current US$)",,,,
 PHL,"Net official flows from UN agencies, UNFPA (current US$)",2404077.05307007,2824170.11260986,3628283.26225281,4932280.06362915
 PHL,"Net official flows from UN agencies, UNHCR (current US$)",2408819.9138641404,484138.72718811,1133455.39569855,948358.476161957
 PHL,"Net official flows from UN agencies, UNICEF (current US$)",2982000.11253357,5601493.83544922,4677999.97329712,2874000.07247925
-PHL,"Net official flows from UN agencies, UNIDIR (current US$)",,,,
-PHL,"Net official flows from UN agencies, UNIDO (current US$)",,,,53192.6713883877
 PHL,"Net official flows from UN agencies, UNPBF (current US$)",964175.999164581,1439650.29716492,,2099999.90463257
-PHL,"Net official flows from UN agencies, UNRWA (current US$)",,,,
-PHL,"Net official flows from UN agencies, UNTA (current US$)",,,,
-PHL,"Net official flows from UN agencies, UNWOMEN (current US$)",,,,
-PHL,"Net official flows from UN agencies, UNWTO (current US$)",,,,
 PHL,"Net official flows from UN agencies, WFP (current US$)",1312379.95624542,225227.475166321,2602370.0237274203,1692824.12528992
 PHL,"Net official flows from UN agencies, WHO (current US$)",1394721.7464446998,801509.7975730901,2716247.79701233,613448.441028595
-PHL,"Net official flows from UN agencies, WTO-ITC (current US$)",,,,
 PHL,"Net primary income (BoP, current US$)",3226177353.72186,3668938544.0621,5276244997.56901,4101428652.04602
-PHL,Net primary income (Net income from abroad) (constant LCU),,,,
 PHL,Net primary income (Net income from abroad) (current LCU),1826528024900.0,1947158658000.0,1954197181100.0,1360426940000.0
 PHL,Net primary income (Net income from abroad) (current US$),36237960708.05885,36975043366.65373,37728885787.864235,27414644288.93576
 PHL,"Net secondary income (BoP, current US$)",26152507108.5307,26818394340.1038,27949100597.2198,27385864713.0905
-PHL,Net secondary income (Net current transfers from abroad) (constant LCU),,,,
 PHL,Net secondary income (Net current transfers from abroad) (current LCU),1272425122900.0,1367791439500.0,1403490199900.0,1333893377200.0
 PHL,Net secondary income (Net current transfers from abroad) (current US$),25244666919.42579,25973306070.495995,27096611318.724537,26879953182.4217
 PHL,"Net trade in goods (BoP, current US$)",-40214789305.21349,-50972497468.4808,-49311547543.852104,-33775273827.311195
@@ -932,9 +643,7 @@ PHL,"Net trade in goods and services (BoP, current US$)",-31521653139.6326,-3936
 PHL,"New business density (new registrations per 1,000 people ages 15-64)",0.361054244627395,0.291594999102226,0.310765668538861,0.211689795043898
 PHL,New businesses registered (number),24379.0,20092.0,21835.0,15161.0
 PHL,Newborns protected against tetanus (%),90.0,90.0,90.0,91.0
-PHL,Nitrous oxide emissions (% change from 1990),,,,
 PHL,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),14449.49851,13824.10778,14320.43404,14455.78231
-PHL,Nitrous oxide emissions in energy sector (% of total),,,,
 PHL,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),1359.9,1401.3,1456.9,1288.9
 PHL,Number of deaths ages 10-14 years,4763.0,4775.0,4776.0,4772.0
 PHL,Number of deaths ages 15-19 years,7803.0,7789.0,7806.0,7980.0
@@ -943,9 +652,7 @@ PHL,Number of deaths ages 5-9 years,4989.0,4917.0,4834.0,4759.0
 PHL,Number of infant deaths,52946.0,53567.0,54158.0,54508.0
 PHL,Number of maternal deaths,2000.0,2000.0,2000.0,1900.0
 PHL,Number of neonatal deaths,33315.0,34212.0,35067.0,35599.0
-PHL,"Number of surgical procedures (per 100,000 population)",,,,
 PHL,Number of under-five deaths,66889.0,67555.0,68214.0,68608.0
-PHL,Number of visits or required meetings with tax officials (average for affected firms),,,,
 PHL,"Nurses and midwives (per 1,000 people)",4.732,4.774,4.808,4.776
 PHL,"Official exchange rate (LCU per US$, period average)",50.4037197937177,52.6614299539683,51.7957826517333,49.6240960026328
 PHL,Oil rents (% of GDP),0.0417218027567957,0.0571201423493892,0.0343292239111028,0.0120548345049257
@@ -953,8 +660,6 @@ PHL,Ores and metals exports (% of merchandise exports),5.584065612953694,4.90820
 PHL,Ores and metals imports (% of merchandise imports),3.4966392394736845,2.2507766899934767,1.6876142356931758,1.9404269993578376
 PHL,Other expense (% of expense),0.3688301477938296,0.8317953613146011,0.943305980970878,0.9769941959920586
 PHL,Other expense (current LCU),8313000000.0,21593000000.0,27315000000.0,34306000000.0
-PHL,Other greenhouse gas emissions (% change from 1990),,,,
-PHL,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",,,,
 PHL,Other manufacturing (% of value added in manufacturing),18.54303539808364,25.386910480681912,34.99690760720333,26.714314402451727
 PHL,Other taxes (% of revenue),4.077577932460489,5.791409870028061,5.496921404458859,5.102537014725579
 PHL,Other taxes (current LCU),100810000000.0,164159000000.0,172417280000.0,145702143000.0
@@ -962,15 +667,7 @@ PHL,Other taxes payable by businesses (% of commercial profits),14.0,14.0,14.0,
 PHL,Out-of-pocket expenditure (% of current health expenditure),50.15,50.44,48.79,44.56
 PHL,Out-of-pocket expenditure per capita (current US$),61.0,64.0,69.0,74.0
 PHL,"Out-of-pocket expenditure per capita, PPP (current international $)",159.0,171.0,185.0,189.0
-PHL,"Over-age students, primary (% of enrollment)",9.81991,,,
-PHL,"Over-age students, primary, female (% of female enrollment)",8.01202,,,
-PHL,"Over-age students, primary, male (% of male enrollment)",11.48171,,,
-PHL,PFC gas emissions (thousand metric tons of CO2 equivalent),,,,
 PHL,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",18.64126301,18.73649283,18.82613108,
-PHL,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",96.3706587650922,,,
-PHL,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",0.0,,,
-PHL,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",6.19320697791801,,,
-PHL,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",78.5573277504976,,,
 PHL,"PNG, bonds (NFL, current US$)",-1250000000.0,1175000000.0,1850677000.0,2500000000.0
 PHL,"PNG, commercial banks and other creditors (NFL, current US$)",-944168000.0,-153827000.0,-790212000.0,549941000.0
 PHL,"PPG, IBRD (DOD, current US$)",5048115000.0,5775855000.0,6406977000.0,8067702000.0
@@ -1017,7 +714,6 @@ PHL,"Personal remittances, received (% of GDP)",9.988339271780816,9.747659760626
 PHL,"Personal remittances, received (current US$)",32809770433.9087,33808967986.2666,35167471832.1845,34882844550.0776
 PHL,"Personal transfers, receipts (BoP, current US$)",24883904300.942997,25521168535.664894,26340588218.7012,26333843114.6059
 PHL,"Physicians (per 1,000 people)",0.669,0.701,0.735,0.752
-PHL,"Plant species (higher), threatened",,254.0,,
 PHL,Political Stability and Absence of Violence/Terrorism: Estimate,-1.18929064273834,-1.09619224071503,-0.928045392036438,-0.778701364994049
 PHL,Political Stability and Absence of Violence/Terrorism: Number of Sources,9.0,9.0,8.0,7.0
 PHL,Political Stability and Absence of Violence/Terrorism: Percentile Rank,11.4285717010498,12.7358493804932,16.0377349853516,19.8113212585449
@@ -1082,7 +778,6 @@ PHL,Population in largest city,13271721.0,13482468.0,13698889.0,13923452.0
 PHL,Population in the largest city (% of urban population),26.63524463226424,26.47442630130582,26.322025761361495,26.17805409835221
 PHL,Population in urban agglomerations of more than 1 million,14977445.0,15227448.0,15483831.0,15748902.0
 PHL,Population in urban agglomerations of more than 1 million (% of total population),14.031904944964516,14.025615969577126,14.027648321894812,14.037583432400272
-PHL,Population living in areas where elevation is below 5 meters (% of total population),,,,
 PHL,Population living in slums (% of urban population),,37.3187,,36.61565
 PHL,"Population, female",52616948.0,53496816.0,54369671.0,55243033.0
 PHL,"Population, female (% of total population)",49.2951910576297,49.2745597825144,49.2564549538885,49.2401746354344
@@ -1092,20 +787,7 @@ PHL,"Population, total",106738501.0,108568836.0,110380804.0,112190977.0
 PHL,"Portfolio equity, net inflows (BoP, current US$)",495746837.035199,-1031400031.38046,1763918173.33869,-2541024579.62272
 PHL,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",-879238000.0,2931536000.0,2898161000.0,7038411000.0
 PHL,"Portfolio investment, net (BoP, current US$)",2454355418.68515,1447844569.31835,-2473905671.18322,-1679733365.83474
-PHL,Poverty gap at $2.15 a day (2017 PPP) (%),,0.5,,
-PHL,Poverty gap at $3.65 a day (2017 PPP) (%),,4.3,,
-PHL,Poverty gap at $6.85 a day (2017 PPP) (%),,19.7,,
-PHL,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),,3.0,,
-PHL,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),,18.3,,
-PHL,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),,53.5,,
-PHL,Poverty headcount ratio at national poverty lines (% of population),,16.7,,
-PHL,Poverty headcount ratio at societal poverty line (% of population),,27.6,,
-PHL,Power outages in firms in a typical month (number),,,,
-PHL,Pregnant women receiving prenatal care (%),93.8,,,
 PHL,"Preprimary education, duration (years)",1.0,1.0,1.0,1.0
-PHL,Present value of external debt (% of GNI),,,,
-PHL,"Present value of external debt (% of exports of goods, services and primary income)",,,,
-PHL,Present value of external debt (current US$),,,,
 PHL,"Prevalence of HIV, female (% ages 15-24)",0.1,0.1,0.1,0.1
 PHL,"Prevalence of HIV, male (% ages 15-24)",0.2,0.2,0.2,0.3
 PHL,"Prevalence of HIV, total (% of population ages 15-49)",0.1,0.2,0.2,0.2
@@ -1142,13 +824,11 @@ PHL,"Primary completion rate, male (% of relevant age group)",103.013000488281,1
 PHL,"Primary completion rate, total (% of relevant age group)",104.435997009277,110.88200378418,101.024002075195,98.1129989624023
 PHL,"Primary education, duration (years)",6.0,6.0,6.0,6.0
 PHL,"Primary education, pupils",14039867.0,13418841.0,13195088.0,13214472.0
-PHL,"Primary education, pupils (% female)",47.89458,,,
 PHL,"Primary education, teachers",482743.0,495636.0,514231.0,524646.0
 PHL,"Primary education, teachers (% female)",87.5350036621094,87.3529968261719,87.088996887207,87.4250030517578
 PHL,Primary government expenditures as a proportion of original approved budget (%),98.9649,93.7554,,
 PHL,"Primary income payments (BoP, current US$)",7357197138.10439,8330225955.66567,8125395147.94915,7492091761.127811
 PHL,"Primary income receipts (BoP, current US$)",10583374491.8263,11999164499.7278,13401640145.5182,11593520413.1738
-PHL,Primary school age children out-of-school (%),,,4.97464752197265,
 PHL,Primary school starting age (years),6.0,6.0,6.0,6.0
 PHL,Private credit bureau coverage (% of adults),10.7,12.4,13.5,
 PHL,"Probability of dying among adolescents ages 10-14 years (per 1,000)",2.2,2.2,2.1,2.1
@@ -1158,43 +838,13 @@ PHL,"Probability of dying among youth ages 20-24 years (per 1,000)",5.7,5.6,5.5,
 PHL,Procedures to build a warehouse (number),23.0,23.0,22.0,
 PHL,Procedures to register property (number),9.0,9.0,9.0,
 PHL,Profit tax (% of commercial profits),20.3,20.3,20.2,
-PHL,Progression to secondary school (%),,,,
-PHL,"Progression to secondary school, female (%)",,,,
-PHL,"Progression to secondary school, male (%)",,,,
-PHL,Proportion of people living below 50 percent of median income (%),,12.9,,
-PHL,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),,,,
-PHL,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),,,,
-PHL,Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),,,,
-PHL,Proportion of population pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),,,,
-PHL,Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),,,,
-PHL,Proportion of population pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure (%),,,,
-PHL,Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),,,,
-PHL,Proportion of population pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),,,,
-PHL,Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),,,,
-PHL,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),,,,
-PHL,Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%),,,,
 PHL,Proportion of seats held by women in national parliaments (%),29.4520547945205,29.4520547945205,27.9605263157895,27.9605263157895
-PHL,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",,,,
-PHL,"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",,,,
-PHL,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),5.5,,,
-PHL,Prosperity gap (average shortfall from a prosperity standard of $25/day),,4.5,,
 PHL,Public and publicly guaranteed debt service (% of GNI),1.443414137596409,1.2199257060430706,1.5741788818963616,1.4523701879521396
 PHL,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",5.414419448996214,4.573746661505875,6.034435314752552,6.168611262499728
 PHL,Public credit registry coverage (% of adults),0.0,0.0,0.0,
-PHL,Public private partnerships investment in ICT (current US$),,,,
 PHL,Public private partnerships investment in energy (current US$),1700000000.0,19120000.0,52500000.0,59610000.0
 PHL,Public private partnerships investment in transport (current US$),53550000.0,,1733250000.0,
 PHL,Public private partnerships investment in water and sanitation (current US$),,18960000.0,32070000.0,
-PHL,"Pupil-teacher ratio, lower secondary",24.17804,,,
-PHL,"Pupil-teacher ratio, preprimary",27.08486,,,
-PHL,"Pupil-teacher ratio, primary",29.08352,,,
-PHL,"Pupil-teacher ratio, secondary",23.88062,,,
-PHL,"Pupil-teacher ratio, tertiary",23.73181,,,
-PHL,"Pupil-teacher ratio, upper secondary",22.43758,,,
-PHL,Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,,,90.4375610351562,
-PHL,Rail lines (total route-km),,,,
-PHL,"Railways, goods transported (million ton-km)",,,,
-PHL,"Railways, passengers carried (million passenger-km)",,,,
 PHL,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),61.26518356762659,62.62456179092942,64.15240412530761,63.61976867715051
 PHL,Ratio of female to male labor force participation rate (%) (national estimate),61.26493534835507,62.6257191341418,64.14781443042521,63.628476117817755
 PHL,Real effective exchange rate index (2010 = 100),103.447880108444,100.609990720794,105.389884914038,111.267984827986
@@ -1207,15 +857,9 @@ PHL,Regulatory Quality: Percentile Rank,59.523811340332,56.1904754638672,60.0,57
 PHL,"Regulatory Quality: Percentile Rank, Lower Bound of 90% Confidence Interval",44.2857131958008,41.4285697937012,44.761905670166,43.3333320617676
 PHL,"Regulatory Quality: Percentile Rank, Upper Bound of 90% Confidence Interval",69.0476226806641,63.8095245361328,65.2380981445313,65.2380981445313
 PHL,Regulatory Quality: Standard Error,0.191425934433937,0.19148088991642,0.190103381872177,0.202663421630859
-PHL,Renewable electricity output (% of total electricity output),,,,
 PHL,Renewable energy consumption (% of total final energy consumption),27.8,27.6,26.9,29.1
 PHL,Renewable internal freshwater resources per capita (cubic meters),4487.60283789258,4411.947457924298,4339.5226583056965,4269.50555925723
 PHL,"Renewable internal freshwater resources, total (billion cubic meters)",479.0,479.0,479.0,479.0
-PHL,"Repeaters, primary, female (% of female enrollment)",0.86709,,,
-PHL,"Repeaters, primary, male (% of male enrollment)",1.91092,,,
-PHL,"Repeaters, primary, total (% of total enrollment)",1.41098,,,
-PHL,Research and development expenditure (% of GDP),,0.322219997644424,,
-PHL,Researchers in R&D (per million people),,172.007858276367,,
 PHL,"Reserves and related items (BoP, current US$)",-862390029.525185,-2304520425.97815,7844964264.62794,16022409729.2441
 PHL,"Revenue, excluding grants (% of GDP)",14.9321380731304,15.518451436652974,16.06915835181878,15.90525449964774
 PHL,"Revenue, excluding grants (current LCU)",2472262000000.0,2834474680000.0,3136356340000.0,2855243463000.0
@@ -1228,34 +872,23 @@ PHL,Rule of Law: Percentile Rank,32.3809509277344,31.9047622680664,29.5238094329
 PHL,"Rule of Law: Percentile Rank, Lower Bound of 90% Confidence Interval",22.8571434020996,21.4285717010498,21.9047622680664,19.0476188659668
 PHL,"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval",45.238094329834,41.4285697937012,43.3333320617676,38.5714302062988
 PHL,Rule of Law: Standard Error,0.157663121819496,0.152450114488602,0.155358329415321,0.149901747703552
-PHL,Rural land area (sq. km),,,,
-PHL,Rural land area where elevation is below 5 meters (% of total land area),,,,
-PHL,Rural land area where elevation is below 5 meters (sq. km),,,,
 PHL,Rural population,56910834.0,57642452.0,58337359.0,59003479.0
 PHL,Rural population (% of total population),53.318,53.093,52.851,52.592
 PHL,Rural population growth (annual %),1.373537985453584,1.277358290374172,1.1983384173426144,1.1353713966185393
-PHL,Rural population living in areas where elevation is below 5 meters (% of total population),,,,
 PHL,S&P Global Equity Indices (annual % change),22.1486214114073,-16.9628450551238,7.74783806497838,-3.33720076574203
-PHL,SF6 gas emissions (thousand metric tons of CO2 equivalent),,,,
 PHL,"School enrollment, preprimary (% gross)",80.6925354003906,99.8163375854492,105.103393554688,88.9706039428711
 PHL,"School enrollment, preprimary, female (% gross)",78.9738311767578,98.1324081420898,104.446243286133,87.0182418823242
 PHL,"School enrollment, preprimary, male (% gross)",82.3405532836914,101.424903869629,105.72811126709,90.8194198608398
 PHL,"School enrollment, primary (% gross)",103.182998657227,98.0920028686523,95.9789962768555,95.8000030517578
-PHL,"School enrollment, primary (% net)",93.7756,,,
 PHL,"School enrollment, primary (gross), gender parity index (GPI)",0.964394211769104,0.962437927722931,0.970158874988556,0.976088404655457
 PHL,"School enrollment, primary and secondary (gross), gender parity index (GPI)",1.01848995685577,1.02580893039703,1.02519476413727,1.0238698720932
 PHL,"School enrollment, primary, female (% gross)",102.503997802734,97.4850006103516,95.8199996948242,95.8759994506836
-PHL,"School enrollment, primary, female (% net)",93.69001,,,
 PHL,"School enrollment, primary, male (% gross)",103.814002990723,98.6579971313477,96.1269989013672,95.7279968261719
-PHL,"School enrollment, primary, male (% net)",93.85718,,,
 PHL,"School enrollment, primary, private (% of total primary)",8.45405006408691,8.9002799987793,9.3357400894165,9.480299949646
 PHL,"School enrollment, secondary (% gross)",84.5040588378906,82.0350036621094,87.5709991455078,89.245002746582
-PHL,"School enrollment, secondary (% net)",,,,
 PHL,"School enrollment, secondary (gross), gender parity index (GPI)",1.10588002204895,1.10029077529907,1.08543932437897,1.07524430751801
 PHL,"School enrollment, secondary, female (% gross)",88.6727676391602,86.4069976806641,91.5899963378906,93.0490036010742
-PHL,"School enrollment, secondary, female (% net)",,,,
 PHL,"School enrollment, secondary, male (% gross)",80.5877990722656,77.9339981079102,83.802001953125,85.6829986572266
-PHL,"School enrollment, secondary, male (% net)",,,,
 PHL,"School enrollment, secondary, private (% of total secondary)",,24.7303199768066,24.3398094177246,23.9150390625
 PHL,"School enrollment, tertiary (% gross)",35.4049987792969,29.4290008544922,31.2369995117188,32.8470001220703
 PHL,"School enrollment, tertiary (gross), gender parity index (GPI)",1.2328040599823,1.23376619815826,1.23127508163452,1.2206084728241
@@ -1263,15 +896,10 @@ PHL,"School enrollment, tertiary, female (% gross)",40.1839981079102,33.41799926
 PHL,"School enrollment, tertiary, male (% gross)",30.8290004730225,25.6060009002686,27.2390003204346,28.871000289917
 PHL,Scientific and technical journal articles,1938.59,2105.76,3457.15,3071.81
 PHL,"Secondary education, duration (years)",5.0,6.0,6.0,6.0
-PHL,"Secondary education, general pupils",8444603.0,,,
-PHL,"Secondary education, general pupils (% female)",51.20434,,,
 PHL,"Secondary education, pupils",9007148.0,10562477.0,11346712.0,11696280.0
-PHL,"Secondary education, pupils (% female)",50.82828,,,
 PHL,"Secondary education, teachers",377174.0,421823.84375,450760.84375,474605.0
 PHL,"Secondary education, teachers (% female)",71.443000793457,70.6989974975586,70.5869979858398,70.6760025024414
 PHL,"Secondary education, teachers, female",269464.0,298226.84375,318176.84375,335433.0
-PHL,"Secondary education, vocational pupils",562545.0,,,
-PHL,"Secondary education, vocational pupils (% female)",45.18305,,,
 PHL,"Secondary income receipts (BoP, current US$)",26897160479.8492,27606742416.0738,28746248149.1184,28240066066.946003
 PHL,"Secondary income, other sectors, payments (BoP, current US$)",677327425.164781,759367592.330747,760429111.2467,815076601.918831
 PHL,Secure Internet servers,9239.0,9903.0,12035.0,12444.0
@@ -1304,9 +932,6 @@ PHL,"Share of youth not in education, employment or training, total (% of youth 
 PHL,"Short-term debt (% of exports of goods, services and primary income)",14.681442122078908,15.695545243899032,15.912494957834284,15.507046638399366
 PHL,Short-term debt (% of total external debt),19.5253,20.3419,20.5731,14.4252
 PHL,Short-term debt (% of total reserves),17.533529746317203,20.289006249610967,19.22373529004332,12.91812217117087
-PHL,Social contributions (% of revenue),,,,
-PHL,Social contributions (current LCU),,,,
-PHL,"Specialist surgical workforce (per 100,000 population)",,,,
 PHL,Start-up procedures to register a business (number),17.0,14.0,13.0,
 PHL,"Start-up procedures to register a business, female (number)",17.0,14.0,13.0,
 PHL,"Start-up procedures to register a business, male (number)",17.0,14.0,13.0,
@@ -1326,8 +951,6 @@ PHL,"Suicide mortality rate (per 100,000 population)",2.2,2.2,2.2,
 PHL,"Suicide mortality rate, female (per 100,000 female population)",1.1,1.1,1.2,
 PHL,"Suicide mortality rate, male (per 100,000 male population)",3.3,3.2,3.1,
 PHL,Surface area (sq. km),300000.0,300000.0,300000.0,300000.0
-PHL,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",,,,
-PHL,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",,,,
 PHL,"Survival to age 65, female (% of cohort)",80.39666,80.741955,81.052182,81.47604
 PHL,"Survival to age 65, male (% of cohort)",72.995405,73.279214,73.606736,74.097411
 PHL,"Tariff rate, applied, simple mean, all products (%)",3.7,4.04,3.54,3.42
@@ -1345,11 +968,6 @@ PHL,"Tariff rate, most favored nation, weighted mean, primary products (%)",5.41
 PHL,Tax payments (number),19.0,13.0,13.0,
 PHL,Tax revenue (% of GDP),13.593793749213845,14.04753327919044,14.488473021251489,13.950985707377184
 PHL,Tax revenue (current LCU),2250677000000.0,2565808680000.0,2827840340000.0,2504421463000.0
-PHL,Taxes less subsidies on products (constant LCU),,,,
-PHL,Taxes less subsidies on products (current LCU),,,,
-PHL,Taxes less subsidies on products (current US$),,,,
-PHL,Taxes on exports (% of tax revenue),,,,
-PHL,Taxes on exports (current LCU),,,,
 PHL,Taxes on goods and services (% of revenue),26.956224181440692,27.27645071114685,27.431174266972757,27.158553521064665
 PHL,Taxes on goods and services (% value added of industry and services),4.481559231660895,4.685075256643446,4.83476474231817,4.80990520824069
 PHL,Taxes on goods and services (current LCU),666439000000.0,773158000000.0,860410420000.0,775508230000.0
@@ -1359,8 +977,6 @@ PHL,"Taxes on income, profits and capital gains (current LCU)",1025244000000.0,1
 PHL,Taxes on international trade (% of revenue),18.532694845813676,20.924523781347432,20.09522787068943,18.82997575290813
 PHL,Taxes on international trade (current LCU),458184000000.0,593111000000.0,630310000000.0,537687000000.0
 PHL,"Technical cooperation grants (BoP, current US$)",137980000.0,253510000.0,182150000.0,162430000.0
-PHL,Technicians in R&D (per million people),,,,
-PHL,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),8.6,,,
 PHL,Terms of trade adjustment (constant LCU),179349366530.3672,0.0,-163415270629.1621,-47353678245.20215
 PHL,Terrestrial and marine protected areas (% of total territorial area),3.14140839390029,3.14140839390029,3.14922432473144,3.14922432473144
 PHL,Terrestrial protected areas (% of total land area),15.3166593209145,15.3166593209145,15.37247,15.37247
@@ -1369,17 +985,14 @@ PHL,Textiles and clothing (% of value added in manufacturing),3.3538851406044374
 PHL,Time required to build a warehouse (days),122.0,122.0,120.0,
 PHL,Time required to enforce a contract (days),962.0,962.0,962.0,
 PHL,Time required to get electricity (days),37.0,37.0,37.0,
-PHL,Time required to obtain an operating license (days),,,,
 PHL,Time required to register property (days),35.0,35.0,35.0,
 PHL,Time required to start a business (days),39.0,34.0,33.0,
 PHL,"Time required to start a business, female (days)",39.0,34.0,33.0,
 PHL,"Time required to start a business, male (days)",39.0,34.0,33.0,
-PHL,Time spent dealing with the requirements of government regulations (% of senior management time),,,,
 PHL,"Time to export, border compliance (hours)",42.46154,42.46154,42.46154,
 PHL,"Time to export, documentary compliance (hours)",36.0,36.0,36.0,
 PHL,"Time to import, border compliance (hours)",72.0,120.0,120.0,
 PHL,"Time to import, documentary compliance (hours)",96.0,96.0,96.0,
-PHL,Time to obtain an electrical connection (days),,,,
 PHL,Time to prepare and pay taxes (hours),182.0,181.0,171.0,
 PHL,Time to resolve insolvency (years),2.7,2.7,2.7,
 PHL,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",6.04,6.18,6.18,5.66
@@ -1388,7 +1001,6 @@ PHL,"Total alcohol consumption per capita, male (liters of pure alcohol, project
 PHL,Total debt service (% of GNI),3.0730871703742317,2.2956739530944024,2.561761302595778,2.3872943495095633
 PHL,"Total debt service (% of exports of goods, services and primary income)",11.527518340261254,8.606943051416325,9.820219957294634,10.13948849504472
 PHL,Total fisheries production (metric tons),4126941.23,4126424.45,4189087.04,4237749.79
-PHL,Total greenhouse gas emissions (% change from 1990),,,,
 PHL,Total greenhouse gas emissions (kt of CO2 equivalent),221322.0186,227857.6762,235302.3833,224971.7625
 PHL,Total natural resources rents (% of GDP),0.964596437230551,0.943783444739612,0.78530018741462,0.764112790267085
 PHL,Total reserves (% of total external debt),111.36030866331136,100.26090273237298,107.0195396539864,111.66705550719092
@@ -1426,15 +1038,6 @@ PHL,"Travel services (% of service imports, BoP)",45.33381823828487,44.283250440
 PHL,"Tuberculosis case detection rate (%, all forms)",54.0,62.0,67.0,42.0
 PHL,Tuberculosis treatment success rate (% of new cases),91.0,83.0,86.0,76.0
 PHL,UHC service coverage index,60.0,,60.0,
-PHL,Unemployment with advanced education (% of total labor force with advanced education),3.68,,,
-PHL,"Unemployment with advanced education, female (% of female labor force with advanced education)",3.442,,,
-PHL,"Unemployment with advanced education, male (% of male labor force with advanced education)",3.915,,,
-PHL,Unemployment with basic education (% of total labor force with basic education),1.282,,,
-PHL,"Unemployment with basic education, female (% of female labor force with basic education)",1.254,,,
-PHL,"Unemployment with basic education, male (% of male labor force with basic education)",1.294,,,
-PHL,Unemployment with intermediate education (% of total labor force with intermediate education),3.154,,,
-PHL,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",3.296,,,
-PHL,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",3.068,,,
 PHL,"Unemployment, female (% of female labor force) (modeled ILO estimate)",2.703,2.678,2.533,2.722
 PHL,"Unemployment, female (% of female labor force) (national estimate)",2.703,2.678,2.533,2.721
 PHL,"Unemployment, male (% of male labor force) (modeled ILO estimate)",2.46,2.127,2.049,2.397
@@ -1447,18 +1050,10 @@ PHL,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO es
 PHL,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",6.64,5.759,5.878,6.135
 PHL,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",7.494,6.692,6.777,7.049
 PHL,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",7.458,6.669,6.769,7.032
-PHL,Unmet need for contraception (% of married women ages 15-49),16.7,,,
-PHL,Urban land area (sq. km),,,,
-PHL,Urban land area where elevation is below 5 meters (% of total land area),,,,
-PHL,Urban land area where elevation is below 5 meters (sq. km),,,,
 PHL,Urban population,49827667.0,50926384.0,52043445.0,53187498.0
 PHL,Urban population (% of total population),46.682,46.907,47.149,47.408
 PHL,Urban population growth (annual %),2.205434066029744,2.181074695294833,2.1697711565895377,2.1744518199897067
-PHL,Urban population living in areas where elevation is below 5 meters (% of total population),,,,
 PHL,"Use of IMF credit (DOD, current US$)",1193374642.7,1165434657.1,1158759439.5,1206894565.1
-PHL,Use of insecticide-treated bed nets (% of under-5 population),,,,
-PHL,Value lost due to electrical outages (% of sales for affected firms),,,,
-PHL,Vitamin A supplementation coverage rate (% of children ages 6-59 months),,,,29.0
 PHL,Voice and Accountability: Estimate,0.0841742902994156,0.021107655018568,0.0058021922595799,-0.106158271431923
 PHL,Voice and Accountability: Number of Sources,13.0,13.0,12.0,11.0
 PHL,Voice and Accountability: Percentile Rank,48.7684745788574,47.5728149414063,45.4106292724609,41.062801361084
@@ -1471,19 +1066,8 @@ PHL,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)
 PHL,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",58.8560252078782,60.0522544611215,60.4304751629061,58.9581831607447
 PHL,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",64.5501346940691,65.6011652554384,66.0096123349589,64.8724995966409
 PHL,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",62.4015912923821,63.4845307614713,63.8503115756379,62.594581650418
-PHL,Wanted fertility rate (births per woman),2.0,,,
 PHL,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",3.8251273865877207,4.0515192093469565,4.614389238530825,4.1751780703266546
 PHL,Wholesale price index (2010 = 100),120.934065934066,123.287545787546,125.311355311355,128.315018315018
 PHL,Women Business and the Law Index Score (scale 1-100),78.75,78.75,78.75,78.75
-PHL,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",79.8,,,
-PHL,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",85.0,,,
-PHL,Women who believe a husband is justified in beating his wife (any of five reasons) (%),10.9,,,
-PHL,Women who believe a husband is justified in beating his wife when she argues with him (%),2.2,,,
-PHL,Women who believe a husband is justified in beating his wife when she burns the food (%),1.3,,,
-PHL,Women who believe a husband is justified in beating his wife when she goes out without telling him (%),3.4,,,
-PHL,Women who believe a husband is justified in beating his wife when she neglects the children (%),8.6,,,
-PHL,Women who believe a husband is justified in beating his wife when she refuses sex with him (%),1.3,,,
-PHL,Women who were first married by age 15 (% of women ages 20-24),2.2,,,
-PHL,Women who were first married by age 18 (% of women ages 20-24),16.5,,,
 PHL,Women's share of population ages 15+ living with HIV (%),6.20906784276738,6.28947072704798,6.39816564811528,6.46914922533297
 PHL,Young people (ages 15-24) newly infected with HIV,6200.0,7000.0,7800.0,8800.0
