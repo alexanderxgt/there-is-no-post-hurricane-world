@@ -1,5 +1,8 @@
 import os
 
+#######################################################################################################################
+#######################################################################################################################
+
 def transform_development_data(
         # all default figures chosen during Exploratory Data Analysis
         country_code,
@@ -17,8 +20,7 @@ def transform_development_data(
        3. df_min_year (int): Most distant year one wishes to extract (default is 2008).
        4. df_max_year (int): Most proximate year one wishes to extract (default is 2020).
        5. min_total_affected (int): Minimum total affected for filtering (default is 2,000,000).
-
-       . save_to_csv (bool): If True, saves the transformed DataFrame as CSV file.
+       6. save_to_csv (bool): If True, saves the transformed DataFrame as CSV file.
 
     Returns:
         1. A filtered DataFrame for a specified country: development_data_transformed.
@@ -72,18 +74,21 @@ def transform_development_data(
 
     # Save to CSV if specified
         if save_to_csv:
-            os.makedirs("../data/filtered_ETL_outputs", exist_ok=True)
+            os.makedirs("../data/transformed", exist_ok=True)
             development_data_transformed.to_csv(
-                f"../data/filtered_ETL_outputs/{country_code}_development_data_transformed.csv", index=False)
+                f"../data/transformed/{country_code}_WDI_transformed.csv", index=False)
 
             print(f"[TRANSFORM INFO] Creating CSV for {country_code} development data "
-                  f"at /data/filtered_ETL_outputs/{country_code}_development_disaster_data_transformed.csv")
+                  f"at data/transformed/{country_code}_WDI_transformed.csv")
 
         return development_data_transformed
 
     except Exception as e:
         print(f"[TRANSFORM ERROR] Error transforming development data for {country_code}: {e}")
         raise
+
+#######################################################################################################################
+#######################################################################################################################
 
 def transform_disaster_data(
         # all default figures chosen during Exploratory Data Analysis
@@ -124,15 +129,18 @@ def transform_disaster_data(
 
     # Save data to CSV if requested
         if save_to_csv:
-            os.makedirs("../data/filtered_ETL_outputs", exist_ok=True)
+            os.makedirs("../data/transformed", exist_ok=True)
             disaster_data_transformed.to_csv(
-                f"../data/filtered_ETL_outputs/{country_code}_disaster_data_transformed.csv", index=False)
+                f"../data/transformed/{country_code}_EMDAT_transformed.csv", index=False)
 
             print(f"[TRANSFORM INFO] Creating CSV for {country_code} disaster data "
-                  f"at /data/filtered_ETL_outputs/{country_code}_disaster_data_transformed.csv")
+                  f"at data/transformed/{country_code}_EMDAT_transformed.csv")
 
         return disaster_data_transformed
 
     except Exception as e:
         print(f"[TRANSFORM ERROR] Error transforming disaster data for {country_code}: {e}")
         raise
+
+#######################################################################################################################
+#######################################################################################################################
