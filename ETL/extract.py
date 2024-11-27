@@ -47,7 +47,8 @@ def extract_country_data(country_code, save_to_csv=False):
             development_data.to_csv(f"../data/unfiltered_ETL_outputs/{country_code}_development_data.csv", index=False)
             disaster_data.to_csv(f"../data/unfiltered_ETL_outputs/{country_code}_disaster_data.csv", index=False)
 
-            print(f"[EXTRACT INFO] Creating two CSVs for {country_code} at /data/_unfiltered_ETL_outputs: {country_code}_development_data and {country_code}_disaster_data")
+            print(f"[EXTRACT INFO] Creating two CSVs for {country_code} at /data/_unfiltered_ETL_outputs: "
+                  f"{country_code}_development_data and {country_code}_disaster_data")
 
 
         print(f"[EXTRACT INFO] Creating two DataFrames for {country_code}: development_data and disaster_data")
