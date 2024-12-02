@@ -23,7 +23,7 @@ def extract_development_data(country_code, save_to_csv=False):
     Fetch all indicators for a country and transform DataFrame into a desirable format.
 
     Args:
-        1. country_code (str): ISO code of the country (e.g., 'USA')
+        1. country_code (str): ISO3 code of the country (e.g., 'USA')
         2. save_to_csv (bool): If True, saves the transformed DataFrame as a CSV file.
 
     Returns:
@@ -47,7 +47,7 @@ def extract_development_data(country_code, save_to_csv=False):
         country_info = wb.economy.get(country_code)
         country_name = country_info['value']
 
-        print(f"[EXTRACT INFO] Building DataFrame for {country_code} in batches of {batch_size} Indicators:")
+        print(f"[EXTRACT INFO] Building DataFrame for {country_code} in batches of {batch_size} Indicators.")
         batch_dfs = []
         failed_batches = []
         for i in range(0, len(indicators), batch_size):

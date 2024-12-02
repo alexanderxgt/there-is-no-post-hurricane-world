@@ -24,7 +24,7 @@ def generate_report(country_code, dev_data, dis_data):
     Generates a time series analysis report for all indicators and saves to a PDF.
 
     Args:
-        1. country_code (str): ISO code of the country (e.g., 'USA')
+        1. country_code (str): ISO3 code of the country (e.g., 'USA')
         2. dev_data (pd.DataFrame): Transformed development data for the country.
         3. dis_data (pd.DataFrame): Transformed disaster data for the country.
 

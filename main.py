@@ -16,7 +16,7 @@
 #          on the arguments for each function below.
 #
 #          Currently, it's producing a report for
-#          Puerto Rico between 2015 and 2020.
+#          Dominica between 2015 and 2020.
 #
 # Notes: Be sure to change all country_codes for pipeline to work.
 #        Also be mindful of the fact that not every country has
@@ -33,29 +33,29 @@ from analysis.visual_timeseries import generate_report
 if __name__ == "__main__":
     try:
         print("[INFO] Extracting development data:")
-        development_data = extract_development_data("PRI", save_to_csv=True)
+        development_data = extract_development_data("DMA", save_to_csv=True)
 
         print("[INFO] Extracting disaster data:")
-        disaster_data = extract_disaster_data("PRI", save_to_csv=True)
+        disaster_data = extract_disaster_data("DMA", save_to_csv=True)
 
         print("[INFO] Transforming development data:")
         transformed_development_data = transform_development_data(
-            "PRI", development_data, 2015, 2023, save_to_csv=True
+            "DMA", development_data, 2015, 2023, save_to_csv=True
         )
 
         print("[INFO] Transforming disaster data:")
         transformed_disaster_data = transform_disaster_data(
-            "PRI", disaster_data, 2015, 2023, 500000, save_to_csv=True
+            "DMA", disaster_data, 2015, 2023, 20000, save_to_csv=True
         )
 
         print("[INFO] Generating time series report:")
         generate_report(
-            country_code="PRI",
+            country_code="DMA",
             dev_data=transformed_development_data,
             dis_data=transformed_disaster_data
         )
 
-        print("[TEST SUCCESS] Pipeline test completed successfully!")
+        print("[SUCCESS] Pipeline test completed successfully!")
 
     except Exception as e:
-        print(f"[TEST ERROR] Pipeline test failed.")
+        print(f"[ERROR] Pipeline test failed.")

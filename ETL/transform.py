@@ -31,7 +31,7 @@ def transform_development_data(
     Transforms development data for a specific country based on user args.
 
    Args:
-       1. country_code (str): The ISO code of the country to extract (e.g., "USA").
+       1. country_code (str): The ISO3 code of the country to extract (e.g., "USA").
        2. development_data (pd.DataFrame): Development DataFrame returned by extract.py
        3. df_min_year (int): Most distant year one wishes to extract (default is 2008).
        4. df_max_year (int): Most proximate year one wishes to extract (default is 2020).
