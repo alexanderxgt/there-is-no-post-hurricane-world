@@ -16,7 +16,7 @@
 #          on the arguments for each function below.
 #
 #          Currently, it's producing a report for
-#          Dominica between 2015 and 2020.
+#          Dominica between 2015 and 2020
 #
 # Notes: Be sure to change all country_codes for pipeline to work.
 #        Also be mindful of the fact that not every country has
