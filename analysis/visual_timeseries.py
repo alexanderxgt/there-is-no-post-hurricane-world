@@ -40,49 +40,46 @@ def generate_report(country_code, dev_data, dis_data):
         # Helps with progress monitoring
         batch_size = 100
 
-        # Extract year columns
         year_cols = [col for col in dev_data.columns if col.isdigit()]
         min_year = int(min(year_cols))
         max_year = int(max(year_cols))
 
-        # Count total indicators
         total_indicators = len(dev_data)
         print(f"[TIMESERIES INFO] {total_indicators} meaningful indicators found "
               f"for {country_code} between {min_year} and {max_year}")
 
-        # Prepare distinct colors for storms in plot
+        # Generate distinct colors for every Hurricane in the vistools 
         n_storms = len(dis_data['Event Name'].unique())
         storm_colors = itertools.cycle(sns.color_palette("husl", n_colors=n_storms))
 
-        # Create PDF
+        # Create the PDF report 
         with PdfPages(output_file) as pdf:
-            # Loop through each indicator
+            # loop through the indicators 
             for i, row in enumerate(dev_data.iterrows(), start=1):
                 indicator_name = row[1]['Indicator Name']
                 values = row[1][year_cols].values
 
-                # Log progress every `batch_size`
                 if i % batch_size == 0 or i == total_indicators:
                     print(f"[TIMESERIES INFO] Progress: {i} of {total_indicators} Indicators analyzed")
 
-                # Check for missing data, just in case
                 if pd.isna(values).all():
                     print(f"[TIMESERIES WARNING] Skipping indicator '{indicator_name}' due to missing data")
                     continue
 
                 try:
-                    # Create a figure for the current indicator
+                    # Create a figure for current indicator 
                     plt.figure(figsize=(10, 6))
                     plt.plot(year_cols, values, marker='o')
 
-                    # Add disaster year markers with storm names and OFDA/BHA support
+                    # Unique markers for Hurricanes in vistool, plus 
+                    # Marking if a foreign country received US support post-disaster (maybe keep, maybe don't -- ALEX) 
                     disaster_years = dis_data['Start Year'].values
                     disaster_names = dis_data['Event Name'].values
                     ofda_support = dis_data['OFDA/BHA Response'].values
-
+                    
                     for year, storm, ofda in zip(disaster_years, disaster_names, ofda_support):
                         if str(year) in year_cols:
-                            color = next(storm_colors)  # Get a distinct color for each storm
+                            color = next(storm_colors) 
                             # Exclude OFDA/BHA annotations for Puerto Rico and the U.S.
                             label_suffix = "" if country_code in ["PRI", "USA"] else f" ({'US Response' if ofda == 'Yes' else 'No US Response'})"
                             plt.axvline(
@@ -93,7 +90,7 @@ def generate_report(country_code, dev_data, dis_data):
                                 label=f"{storm}{label_suffix}"
                             )
 
-                    # Customize plot
+                    # Vistool customization 
                     plt.title(f"{country_code}: {indicator_name}")
                     plt.xlabel("Year")
                     plt.ylabel("Value")
