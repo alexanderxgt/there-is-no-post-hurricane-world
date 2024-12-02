@@ -21,8 +21,8 @@
 # Notes: Be sure to change all country_codes for pipeline to work.
 #        Also be mindful of the fact that not every country has
 #        similar populations, so be sure to change min_total_affected
-#        for transform_disaster_data. We chose 2M for PHL but that
-#        doesn't work for Puerto Rico, etc.
+#        for transform_disaster_data. We chose 2M after EDA but that
+#        using PHL and JPN but doesn't work for Puerto Rico, etc.
 ##################################################################
 
 from ETL.extract import extract_development_data, extract_disaster_data
