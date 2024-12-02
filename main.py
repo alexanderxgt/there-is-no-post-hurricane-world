@@ -40,12 +40,12 @@ if __name__ == "__main__":
 
         print("[INFO] Transforming development data:")
         transformed_development_data = transform_development_data(
-            "PRI", development_data, save_to_csv=True
+            "PRI", development_data, 2014, 2023, save_to_csv=True
         )
 
         print("[INFO] Transforming disaster data:")
         transformed_disaster_data = transform_disaster_data(
-            "PRI", disaster_data,min_total_affected=500000, save_to_csv=True
+            "PRI", disaster_data,2014, 2023, min_total_affected=500000, save_to_csv=True
         )
 
         print("[INFO] Generating time series report:")
