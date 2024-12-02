@@ -1,4 +1,4 @@
-##########################################################
+##############################################################
 # Name:    main.py
 # Author:  Alexander X. Gonzalez-Torres
 #
@@ -8,7 +8,7 @@
 #          of human development and economic indicators
 #          against major hurricanes to aid researchers in
 #          determining whether major hurricanes (Cat 3 and above)
-#          impact the social and economic
+#          impact the social and economic futures of countries.
 #
 # Usage:   This pipeline is currently in a testing phase and the
 #          arguments are hardcoded below. Consult extract.py,
@@ -16,36 +16,41 @@
 #          on the arguments for each function below.
 #
 #          Currently, it's producing a report for
-#          PHL between 2017 and 2020.
+#          Puerto Rico between 2015 and 2020.
 #
-###########################################################
+# Notes: Be sure to change all country_codes for pipeline to work.
+#        Also be mindful of the fact that not every country has
+#        similar populations, so be sure to change min_total_affected
+#        for transform_disaster_data. We chose 2M for PHL but that
+#        doesn't work for Puerto Rico, etc.
+##################################################################
 
 from ETL.extract import extract_development_data, extract_disaster_data
 from ETL.transform import transform_development_data, transform_disaster_data
 from analysis.visual_timeseries import generate_report
 
-# TEST PIPELINE
+# PIPELINE
 if __name__ == "__main__":
     try:
-        print("[TEST INFO] Extracting development data:")
-        development_data = extract_development_data("PHL", save_to_csv=True)
+        print("[INFO] Extracting development data:")
+        development_data = extract_development_data("PRI", save_to_csv=True)
 
-        print("[TEST INFO] Extracting disaster data:")
-        disaster_data = extract_disaster_data("PHL", save_to_csv=True)
+        print("[INFO] Extracting disaster data:")
+        disaster_data = extract_disaster_data("PRI", save_to_csv=True)
 
-        print("[TEST INFO] Transforming development data:")
+        print("[INFO] Transforming development data:")
         transformed_development_data = transform_development_data(
-            "PHL", development_data, 2017, 2020, save_to_csv=True
+            "PRI", development_data, 2015, 2023, save_to_csv=True
         )
 
-        print("[TEST INFO] Transforming disaster data:")
+        print("[INFO] Transforming disaster data:")
         transformed_disaster_data = transform_disaster_data(
-            "PHL", disaster_data, 2017, 2020, save_to_csv=True
+            "PRI", disaster_data, 2015, 2023, 500000, save_to_csv=True
         )
 
-        print("[TEST INFO] Generating time series report:")
+        print("[INFO] Generating time series report:")
         generate_report(
-            country_code="PHL",
+            country_code="PRI",
             dev_data=transformed_development_data,
             dis_data=transformed_disaster_data
         )

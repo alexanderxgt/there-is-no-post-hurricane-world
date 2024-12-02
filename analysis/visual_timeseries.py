@@ -83,12 +83,14 @@ def generate_report(country_code, dev_data, dis_data):
                     for year, storm, ofda in zip(disaster_years, disaster_names, ofda_support):
                         if str(year) in year_cols:
                             color = next(storm_colors)  # Get a distinct color for each storm
+                            # Exclude OFDA/BHA annotations for Puerto Rico and the U.S.
+                            label_suffix = "" if country_code in ["PRI", "USA"] else f" ({'US Response' if ofda == 'Yes' else 'No US Response'})"
                             plt.axvline(
                                 x=str(year),
                                 color=color,
                                 linestyle='--',
                                 alpha=0.7,
-                                label=f"{storm} ({'US Response' if ofda == 'Yes' else 'No US Response'})"
+                                label=f"{storm}{label_suffix}"
                             )
 
                     # Customize plot
