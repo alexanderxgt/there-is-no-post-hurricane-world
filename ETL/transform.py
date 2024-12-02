@@ -20,7 +20,7 @@ import os
 #######################################################################################################################
 
 def transform_development_data(
-        # all default figures chosen during Exploratory Data Analysis
+        # all default figures chosen during Exploratory Data Analysis, which focused on JPN and PHL
         country_code,
         development_data,
         df_min_year=2007,
@@ -107,7 +107,7 @@ def transform_development_data(
 #######################################################################################################################
 
 def transform_disaster_data(
-        # all default figures chosen during Exploratory Data Analysis
+        # all default figures chosen during Exploratory Data Analysis, which focused on JPN and PHL
         country_code,
         disaster_data,
         df_min_year=2007,
