@@ -1,3 +1,19 @@
+##########################################################
+# Name:    transform.py
+# Author:  Alexander X. Gonzalez-Torres
+# Acknowledgments: Laura Brown
+#
+# Purpose: Clean, transform, and reduce dimensionality of
+#          the data extracted from the World Development
+#          Index and The International Disaster Database.
+#
+#
+# Usage: Further instructions and functionalities below.
+#        The functions in transform.py are incorporated into
+#        the main.py pipeline.
+###########################################################
+
+
 import os
 
 #######################################################################################################################
@@ -39,7 +55,7 @@ def transform_development_data(
 
     # Eliminates Development Indicators where more than half of the years have no data
     # There has to be a more elegant way of doing this. I don't love the create-and-delete column process.
-    # Also, "more than half of the years" doesn't feel sensitive enough, but we can come back to this -- ALEX
+     # Also, "more than half of the years" doesn't feel sensitive enough, but we can come back to this -- ALEX
         num_year_columns = development_data_transformed.iloc[:, 2:].shape[1]
         nc_half = num_year_columns // 2
 
@@ -122,6 +138,12 @@ def transform_disaster_data(
                                                           & (disaster_data_transformed['Start Year'] <= df_max_year)]
         print(f"[TRANSFORM INFO] Filtering {country_code} "
               f"EM-DAT data to only include disasters between {df_min_year} and {df_max_year}")
+
+        disaster_data_transformed = disaster_data_transformed[
+            (disaster_data_transformed['Magnitude Scale'] == 'Kph') &
+            (disaster_data_transformed['Magnitude'] >= 178)
+            ]
+        print(f"[TRANSFORM INFO] Filtering data to only include major hurricanes")
 
         disaster_data_transformed = disaster_data_transformed[disaster_data_transformed['Total Affected'] >= min_total_affected]
         print(f"[TRANSFORM INFO] Filtering {country_code} EM-DAT data to only include disasters "

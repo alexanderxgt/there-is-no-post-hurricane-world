@@ -1,3 +1,16 @@
+##########################################################
+# Name:    extract.py
+# Author:  Alexander X. Gonzalez-Torres
+# Purpose: For a single country, extract development data
+#          from the World Bank's World Development Index.
+#          Also, extract natural disaster data from The
+#          International Disaster Database.
+#
+# Usage: Further instructions and functionalities below.
+#        The functions in extract.py are incorporated into
+#        the main.py pipeline.
+###########################################################
+
 import os
 import pandas as pd
 import wbgapi as wb # World Bank API; they publish WDI
