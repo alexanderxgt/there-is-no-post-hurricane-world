@@ -20,11 +20,11 @@ import os
 #######################################################################################################################
 
 def transform_development_data(
-        # all default figures chosen during Exploratory Data Analysis, which focused on JPN and PHL
+        # all default figures chosen during Exploratory Data Analysis
         country_code,
         development_data,
         df_min_year=2007,
-        df_max_year=2021,
+        df_max_year=2023,
         save_to_csv=False,
 ):
     """
@@ -107,12 +107,12 @@ def transform_development_data(
 #######################################################################################################################
 
 def transform_disaster_data(
-        # all default figures chosen during Exploratory Data Analysis, which focused on JPN and PHL
+        # all default figures chosen during Exploratory Data Analysis
         country_code,
         disaster_data,
         df_min_year=2007,
-        df_max_year=2021,
-        min_total_affected=2000000,
+        df_max_year=2023,
+        min_total_affected=500000,
         save_to_csv=False
 ):
     """

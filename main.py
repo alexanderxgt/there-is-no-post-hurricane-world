@@ -16,7 +16,7 @@
 #          on the arguments for each function below.
 #
 #          Currently, it's producing a report for
-#          Dominica between 2015 and 2020
+#          PHL between 2007 and 2023
 #
 # Notes: Be sure to change all country_codes for pipeline to work.
 #        Also be mindful of the fact that not every country has
@@ -33,24 +33,24 @@ from analysis.visual_timeseries import generate_report
 if __name__ == "__main__":
     try:
         print("[INFO] Extracting development data:")
-        development_data = extract_development_data("PRI", save_to_csv=True)
+        development_data = extract_development_data("PHL", save_to_csv=True)
 
         print("[INFO] Extracting disaster data:")
-        disaster_data = extract_disaster_data("PRI", save_to_csv=True)
+        disaster_data = extract_disaster_data("PHL",save_to_csv=True)
 
         print("[INFO] Transforming development data:")
         transformed_development_data = transform_development_data(
-            "PRI", development_data, 2007, 2023, save_to_csv=True
+            "PHL", development_data, save_to_csv=True
         )
 
         print("[INFO] Transforming disaster data:")
         transformed_disaster_data = transform_disaster_data(
-            "PRI", disaster_data,2007, 2023, min_total_affected=500000, save_to_csv=True
+            "PHL", disaster_data, min_total_affected= 4000000, save_to_csv=True
         )
 
         print("[INFO] Generating time series report:")
         generate_report(
-            country_code="PRI",
+            country_code="PHL",
             dev_data=transformed_development_data,
             dis_data=transformed_disaster_data
         )
