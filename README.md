@@ -1,4 +1,5 @@
-# THERE IS NO POST HURRICANE WORLD
+# THERE IS NO 
+# POST HURRICANE WORLD
 
 ## Team
 Laura Brown<br>
@@ -25,6 +26,8 @@ Our key findings suggest that there is no post hurricane world in Puerto Rico. 7
 
 We believe that the dynamics outlined in previous sections compound each other, and that unraveling a decades-long tangled web of problems requires closing the biggest wound first. Puerto Rico must fix its outdated, dirty, and inefficient power grid. After all, many of the struggles we documented trace back to the historic blackout that followed Maria’s arrival to Puerto Rico. 
 
-Presentation: TBD
+## Presentation: 
+TBD
 
-Final Report: https://github.com/alexanderxgt/there-is-no-post-hurricane-world/blob/8704a6eb2f7d86bc6ad4528037d322f1d623bcd3/09_ThereIsNoPostHurricaneWorld_Part4.pdf 
+## Final Report: 
+https://github.com/alexanderxgt/there-is-no-post-hurricane-world/blob/8704a6eb2f7d86bc6ad4528037d322f1d623bcd3/09_ThereIsNoPostHurricaneWorld_Part4.pdf 
