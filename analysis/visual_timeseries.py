@@ -1,7 +1,7 @@
 ##########################################################
 # Name:    visual_timeseries.py
 # Author:  Alexander X. Gonzalez-Torres
-# Acknowledgments: Laura Brown, Joo Young Han
+# Acknowledgments: Laura Brown
 #
 # Purpose: Generate a PDF report containing visualizations
 #          of time series analysis conducted for every
