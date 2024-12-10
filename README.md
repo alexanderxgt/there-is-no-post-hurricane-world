@@ -9,6 +9,7 @@ Natural disasters have profound effects on both the economic and social developm
 This project aims to fill this research gap by applying data mining and statistical techniques to a combined dataset that includes: 
 1. Information on natural disasters between 2008 and 2023 
 2. Economic and human development metrics for this time period.
+
 We aim to illustrate that we can use time-series visualizations to locate patterns as to the affects of "high impact" natural disasters on economic indicators per country (Puerto Rico and Philippines as our main illustrations). These methods can be applied to guide economic policy and to inform better disaster response strategies and recovery plans.
 
 We sought to look into socio-economic indicators such as GDP and GNI, food production, energy emissions, unemployment, gender discrepencies in health, education, and public sentiment indicators.
