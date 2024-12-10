@@ -1,23 +1,30 @@
-# CSPB 4502: Data Mining Project - Group 9
+# THERE IS NO POST HURRICANE WORLD
+
+## Team
 Laura Brown<br>
 Alexander Gonzalez Torres<br>
 Joo Young Han
 
-## "There is no post-hurricane world"
-Natural disasters have profound effects on both the economic and social development of nations. Research on disaster impacts, such as those caused by Hurricane Maria in Puerto Rico, demonstrates how these disruptions can create long-term challenges in governance, human development, and economic recovery. The idea that "there is no post-hurricane world," as a 2022 exhibit at the Whitney Museum of American art put it, suggests that disasters like hurricanes, floods, and earthquakes fundamentally alter a society’s trajectory, leaving lasting scars on economic performance and social well-being. However, whether these disruptions produce temporary setbacks or long-term changes requires further exploration, particularly as it concerns social development metrics that are well-documented yet often omitted from disaster research. For example, access to clean cooking fuels, regulatory quality, access to financial institutions, etc. 
+## Acknowledgment
+This project is dedicated to the people of Puerto Rico, who rose in protest in the Summer of 19 to demand better governance and persevere in the long shadow of that faithful September 2017 night. We hope they find The Post Hurricane World they deserve. 
 
-This project aims to fill this research gap by applying data mining and statistical techniques to a combined dataset that includes: 
-1. Information on natural disasters between 2008 and 2023 
-2. Economic and human development metrics for this time period.
+## Abstract 
+We sought to determine whether natural disasters permanently changed the socioeconomic trajectory of countries by data mining the World Development Indicators and the Emergency Disaster Database. Exploratory Data Analysis suggested that this is not necessarily the case. We found only one country where a natural disaster changed its socioeconomic trajectory: Puerto Rico after Hurricane Maria in 2017. After this discovery, we focused on Puerto Rico and tasked ourselves with finding which areas of social and economic development were permanently affected by Hurricane Maria in the American territory. We designed a data pipeline to systematically mine our database and uncover Development Indicators that were permanently affected by Maria. We found that Maria negatively and permanently affected the following areas of socioeconomic development in the Commonwealth: 
 
-We aim to illustrate that we can use time-series visualizations to locate patterns as to the affects of "high impact" natural disasters on economic indicators per country (Puerto Rico and Philippines as our main illustrations). These methods can be applied to guide economic policy and to inform better disaster response strategies and recovery plans.
+1.	Food Production and Nutrition
+2.	Public Sentiment 
+3.	Energy 
+4.	Education
+5.	Economic Productivity 
 
-Particularly, we sought to uncover trends in socio-economic indicators such as GDP and GNI, food production, energy emissions, unemployment, gender discrepencies in health, education, and public sentiment indicators.
-We found our disaster data to have minimal affect on national economic data from year-to-year: the 2013 Typhoon Haiyan in the Philippines only found to affect unemployment metrics. (similar results were found in Japan, US and China)
-However, for Puerto Rico, due to prior economic instability and rising national debt, we found Hurrican Maria to have longer lasting affects.
+These findings suggest that—indeed—there is no post hurricane world in Puerto Rico. The Commonwealth struggles to recover across key areas of social and economic development, 7 years after Maria. While these findings point towards a somber future for the American territory, they also offer local and federal leaders actionable areas in which to focus recovery efforts.
 
-In conclusion, since our project illustrates disasters have short-term lasting effects on national economy data, monthly data may be beneficial in future studies in order to monitor recovery rates from prior recovery plans and better manage disaster relief funding and strategies as natural disasters increase with the climate crisis.
+## Application of Findings 
 
-Project video:
+Our key findings suggest that there is no post hurricane world in Puerto Rico. 7 years after Maria, the Commonwealth struggles to recover across 5 crucial areas of socioeconomic development. While these findings point towards a somber future for the American territory, they also offer local and federal leaders actionable areas in which to focus recovery efforts. 
 
-Project paper: https://docs.google.com/document/d/1p4Jumv_aRVbnGjauIO7Eom213uMXk8wM_wEv3ukem_k/edit?tab=t.0
+We believe that the dynamics outlined in previous sections compound each other, and that unraveling a decades-long tangled web of problems requires closing the biggest wound first. Puerto Rico must fix its outdated, dirty, and inefficient power grid. After all, many of the struggles we documented trace back to the historic blackout that followed Maria’s arrival to Puerto Rico. 
+
+Presentation: TBD
+
+Final Report: https://github.com/alexanderxgt/there-is-no-post-hurricane-world/blob/8704a6eb2f7d86bc6ad4528037d322f1d623bcd3/09_ThereIsNoPostHurricaneWorld_Part4.pdf 
