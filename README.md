@@ -12,7 +12,7 @@ This project aims to fill this research gap by applying data mining and statisti
 
 We aim to illustrate that we can use time-series visualizations to locate patterns as to the affects of "high impact" natural disasters on economic indicators per country (Puerto Rico and Philippines as our main illustrations). These methods can be applied to guide economic policy and to inform better disaster response strategies and recovery plans.
 
-We sought to look into socio-economic indicators such as GDP and GNI, food production, energy emissions, unemployment, gender discrepencies in health, education, and public sentiment indicators.
+Particulary, we sought to uncover trends in socio-economic indicators such as GDP and GNI, food production, energy emissions, unemployment, gender discrepencies in health, education, and public sentiment indicators.
 We found our disaster data to have minimal affect on national economic data from year-to-year: the 2013 Typhoon Haiyan in the Philippines only found to affect unemployment metrics. (similar results were found in Japan, US and China)
 However, for Puerto Rico, due to prior economic instability and rising national debt, we found Hurrican Maria to have longer lasting affects.
 
